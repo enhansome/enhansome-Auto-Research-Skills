@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "⭐ 重点技能"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧠 端到端自主研究系统"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔎 深度研究与文献综合"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧪 自动化实验与代码智能体"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔬 领域科学智能体"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧩 研究技能与插件合集"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📊 评测基准"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 精选清单与综述"
+    },
+    {
+      "description": "欢迎 PR！把项目加到合适的分类，或作为子模块收录。详见 CONTRIBUTING.md。",
+      "items": [],
+      "title": "🤝 贡献"
+    },
+    {
+      "description": "CC0 1.0 Universal —— 公共领域。各子模块保留其各自的许可协议。",
+      "items": [],
+      "title": "📄 协议"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:07:57.614Z",
+    "original_repository": "brycewang-stanford/Auto-Research-Skills",
+    "original_repository_sha": "b2cc83c798e45812981d33dc9b9c5a28a99e8ede",
+    "enhanced_repository": "enhansome/enhansome-Auto-Research-Skills",
+    "enhanced_repository_description": null,
+    "title": "Awesome Auto Research Skills with stars"
+  }
+}
