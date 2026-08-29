@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
             "id": 1174820787,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-26T00:07:37Z",
+            "open_issues": 194,
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94865
+            "stars": 94874,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -26,12 +31,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+            "homepage": null,
             "id": 1182108611,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T03:35:13Z",
+            "open_issues": 8,
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14268
+            "stars": 14270,
+            "topics": [
+              "autonomous-research",
+              "citation-verification",
+              "llm-agents",
+              "metaclaw",
+              "multi-agent-debate",
+              "openclaw",
+              "paper-generation",
+              "scientific-discovery",
+              "self-evolving"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
+            "homepage": null,
             "id": 841376583,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-19T07:46:21Z",
+            "open_issues": 119,
             "owner": "SakanaAI",
             "repo": "AI-Scientist",
-            "stars": 14456
+            "stars": 14458,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -58,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+            "homepage": null,
             "id": 962431643,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-19T07:46:32Z",
+            "open_issues": 78,
             "owner": "SakanaAI",
             "repo": "AI-Scientist-v2",
-            "stars": 7058
+            "stars": 7058,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -74,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas",
+            "homepage": null,
             "id": 913598542,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-20T21:46:43Z",
+            "open_issues": 59,
             "owner": "SamuelSchmidgall",
             "repo": "AgentLaboratory",
-            "stars": 5811
+            "stars": 5812,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -90,12 +125,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version: https://novix.science/chat",
+            "homepage": "https://arxiv.org/abs/2505.18705",
             "id": 946632749,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-16T06:47:34Z",
+            "open_issues": 67,
             "owner": "HKUDS",
             "repo": "AI-Researcher",
-            "stars": 5704
+            "stars": 5705,
+            "topics": [
+              "ai-researcher"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -106,12 +148,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+            "homepage": "https://EvoScientist.ai/",
             "id": 1142406715,
             "language": "Python",
-            "last_commit": "2026-08-27T08:04:13Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:55:09Z",
+            "open_issues": 36,
             "owner": "EvoScientist",
             "repo": "EvoScientist",
-            "stars": 4526
+            "stars": 4532,
+            "topics": [
+              "ai-agent",
+              "ai4science",
+              "multi-agent-system",
+              "vibe-research"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -122,12 +174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future.",
+            "homepage": null,
             "id": 1064484445,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-28T16:39:26Z",
+            "open_issues": 15,
             "owner": "ResearAI",
             "repo": "DeepScientist",
-            "stars": 3297
+            "stars": 3297,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -138,12 +195,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper writing and peer review.",
+            "homepage": null,
             "id": 1237570742,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-28T08:34:27Z",
+            "open_issues": 23,
             "owner": "OpenNSWM-Lab",
             "repo": "FAROS",
-            "stars": 3031
+            "stars": 3031,
+            "topics": [
+              "academic-research",
+              "academic-writing",
+              "agentic-workflow",
+              "ai-for-science",
+              "ai-scientist",
+              "ai4science",
+              "automated-research",
+              "autonomous-research",
+              "autoresearch",
+              "llm-agents",
+              "multi-agent",
+              "paper-generation",
+              "paper-writing",
+              "research-agent",
+              "research-automation",
+              "research-orchestration",
+              "research-workflow",
+              "scientific-discovery",
+              "scientific-workflow",
+              "workflow-orchestration"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -154,12 +237,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦞+🔬 NanoResearch: The Autonomous AI Research Assistant",
+            "homepage": null,
             "id": 1184170771,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T09:28:09Z",
+            "open_issues": 7,
             "owner": "OpenRaiser",
             "repo": "NanoResearch",
-            "stars": 1360
+            "stars": 1360,
+            "topics": [
+              "agent-skills",
+              "agents",
+              "ai",
+              "ai-agents",
+              "ai-scientist",
+              "artificial-intelligence",
+              "autonomous-agents",
+              "autonomous-research",
+              "autoresearch",
+              "claude-code",
+              "claude-skills",
+              "nanobot",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -170,12 +272,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery",
+            "homepage": "https://discovery.intern-ai.org.cn/home",
             "id": 984654077,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T07:46:45Z",
+            "open_issues": 3,
             "owner": "InternScience",
             "repo": "InternAgent",
-            "stars": 1416
+            "stars": 1416,
+            "topics": [
+              "agentic-framework",
+              "ai-scientists",
+              "automatic-paper-survey",
+              "automatic-scientific-discovery",
+              "coding-agents",
+              "hypothesis-generation",
+              "llm-coder",
+              "multi-agent-systems"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -186,12 +302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CycleResearcher: Improving Automated Research via Automated Review",
+            "homepage": "http://ai-researcher.net",
             "id": 842825317,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-05T14:29:20Z",
+            "open_issues": 11,
             "owner": "zhu-minjun",
             "repo": "Researcher",
-            "stars": 401
+            "stars": 401,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -202,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1100645740,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-28T07:46:15Z",
+            "open_issues": 2,
             "owner": "tsinghua-fib-lab",
             "repo": "OmniScientist",
-            "stars": 197
+            "stars": 197,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -218,12 +344,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code",
+            "homepage": null,
             "id": 1176132782,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-25T04:32:57Z",
+            "open_issues": 1,
             "owner": "Sibyl-Research-Team",
             "repo": "AutoResearch-SibylSystem",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "ai-agent",
+              "ai-for-science",
+              "ai-scientist",
+              "automated-science",
+              "autonomous-agents",
+              "autonomous-research",
+              "autoresearch",
+              "claude-code",
+              "deepresearch",
+              "experiment-execution",
+              "gpu-scheduling",
+              "llm-agents",
+              "mcp",
+              "multi-agent-system",
+              "paper-generation",
+              "research-automation",
+              "scientific-discovery",
+              "self-evolving",
+              "self-healing",
+              "vibe-research"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -234,12 +386,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2025] ResearchTown: Simulator of Human Research Community",
+            "homepage": null,
             "id": 794845935,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T22:06:44Z",
+            "open_issues": 14,
             "owner": "ulab-uiuc",
             "repo": "research-town",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "automatic-scientific-discovery",
+              "multi-agent-simulation",
+              "research-agent"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         }
@@ -256,12 +417,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+            "homepage": "https://gptr.dev",
             "id": 639835356,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:34:56Z",
+            "open_issues": 58,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29187
+            "stars": 29190,
+            "topics": [
+              "agent",
+              "ai",
+              "automation",
+              "deepresearch",
+              "llms",
+              "mcp",
+              "mcp-server",
+              "python",
+              "research",
+              "search",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -272,12 +450,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "homepage": "http://storm.genie.stanford.edu",
             "id": 776854298,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T18:07:21Z",
+            "open_issues": 107,
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31154
+            "stars": 31154,
+            "topics": [
+              "agentic-rag",
+              "deep-research",
+              "emnlp2024",
+              "knowledge-curation",
+              "large-language-models",
+              "naacl",
+              "nlp",
+              "report-generation",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -288,12 +481,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+            "homepage": "https://deerflow.tech",
             "id": 979115477,
             "language": "Python",
-            "last_commit": "2026-08-29T00:03:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:07:16Z",
+            "open_issues": 911,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 81057
+            "stars": 81064,
+            "topics": [
+              "agent",
+              "agentic",
+              "agentic-framework",
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "deep-research",
+              "harness",
+              "langchain",
+              "langgraph",
+              "langmanus",
+              "llm",
+              "multi-agent",
+              "nodejs",
+              "podcast",
+              "python",
+              "superagent",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -304,12 +521,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
+            "homepage": null,
             "id": 926861272,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-11T23:58:25Z",
+            "open_issues": 92,
             "owner": "dzhng",
             "repo": "deep-research",
-            "stars": 19610
+            "stars": 19610,
+            "topics": [
+              "agent",
+              "ai",
+              "gpt",
+              "o3-mini",
+              "research"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -320,12 +548,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+            "homepage": null,
             "id": 929868765,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:58:44Z",
+            "open_issues": 627,
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 9001
+            "stars": 9002,
+            "topics": [
+              "academia",
+              "anthropic",
+              "arxiv",
+              "brave",
+              "deep-research",
+              "encryption",
+              "home-automation",
+              "homeserver",
+              "local",
+              "local-deep-research",
+              "local-llm",
+              "mistral",
+              "ollama",
+              "openai",
+              "pubmed",
+              "research",
+              "research-tool",
+              "retrieval-augmented-generation",
+              "searxng",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -336,12 +590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl",
+            "homepage": "https://firecrawl.dev/extract",
             "id": 926639724,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-07T15:38:28Z",
+            "open_issues": 45,
             "owner": "nickscamara",
             "repo": "open-deep-research",
-            "stars": 6282
+            "stars": 6282,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -352,12 +611,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 891642747,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T18:13:37Z",
+            "open_issues": 73,
             "owner": "langchain-ai",
             "repo": "open_deep_research",
-            "stars": 12675
+            "stars": 12677,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -368,12 +632,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High accuracy RAG for answering questions from scientific documents with citations",
+            "homepage": "https://futurehouse.gitbook.io/futurehouse-cookbook",
             "id": 597583114,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T11:53:52Z",
+            "open_issues": 144,
             "owner": "Future-House",
             "repo": "paper-qa",
-            "stars": 9119
+            "stars": 9120,
+            "topics": [
+              "ai",
+              "rag",
+              "science",
+              "search"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -384,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository includes the official implementation of OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs. ",
+            "homepage": "https://open-scholar.allen.ai/",
             "id": 889114262,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-13T04:16:46Z",
+            "open_issues": 11,
             "owner": "AkariAsai",
             "repo": "OpenScholar",
-            "stars": 1584
+            "stars": 1584,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -400,12 +679,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Paper is a workbench for managing your research library. Read, annotate, and understand your papers all in one place. Use an AI assistant to conduct your literature review.",
+            "homepage": "https://openpaper.ai",
             "id": 953182014,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T22:42:33Z",
+            "open_issues": 0,
             "owner": "khoj-ai",
             "repo": "openpaper",
-            "stars": 423
+            "stars": 423,
+            "topics": [
+              "ai",
+              "ai-assistant",
+              "ai-pdf-reader",
+              "copilot",
+              "papers",
+              "pdf-ai",
+              "pdf-annotation",
+              "research",
+              "research-paper"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -416,12 +710,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Your Fully-Automated Personal AI Assistant\"",
+            "homepage": "https://arxiv.org/abs/2502.05957",
             "id": 933502231,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-16T06:38:48Z",
+            "open_issues": 33,
             "owner": "HKUDS",
             "repo": "Auto-Deep-Research",
-            "stars": 1731
+            "stars": 1731,
+            "topics": [
+              "agent",
+              "deep-research",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -432,12 +735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 813062244,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-07T01:56:15Z",
+            "open_issues": 15,
             "owner": "AutoSurveys",
             "repo": "AutoSurvey",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         }
@@ -454,12 +762,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+            "homepage": "http://arxiv.org/abs/2512.07921",
             "id": 983246568,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:50:29Z",
+            "open_issues": 24,
             "owner": "HKUDS",
             "repo": "DeepCode",
-            "stars": 16443
+            "stars": 16443,
+            "topics": [
+              "agentic-coding",
+              "harness-engineering",
+              "llm-agent"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -470,12 +787,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！",
+            "homepage": "https://ruc-deepanalyze.github.io",
             "id": 1074218324,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:53:27Z",
+            "open_issues": 23,
             "owner": "ruc-datalab",
             "repo": "DeepAnalyze",
-            "stars": 4569
+            "stars": 4569,
+            "topics": [
+              "agent",
+              "agentic",
+              "agentic-ai",
+              "ai",
+              "ai-scientist",
+              "chatbot",
+              "data",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "data-visualization",
+              "database",
+              "deep-research",
+              "jupyter",
+              "llm",
+              "open-source",
+              "python",
+              "python-programming",
+              "qwen",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -486,12 +829,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. ",
+            "homepage": null,
             "id": 832482665,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T08:38:07Z",
+            "open_issues": 0,
             "owner": "zi-yue-1129",
             "repo": "DATAGEN",
-            "stars": 1793
+            "stars": 1793,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-data-analysis",
+              "artificial-intelligence",
+              "code-generation",
+              "data-analysis",
+              "data-analytics",
+              "data-science",
+              "langchain",
+              "langgraph",
+              "large-language-model",
+              "large-language-models",
+              "llm",
+              "multiagent-systems",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -502,12 +866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning",
+            "homepage": null,
             "id": 972519099,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-25T01:00:05Z",
+            "open_issues": 15,
             "owner": "going-doer",
             "repo": "Paper2Code",
-            "stars": 4930
+            "stars": 4930,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -518,12 +887,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in OpenAI MLE-bench.",
+            "homepage": "https://weco.ai",
             "id": 781524183,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T11:23:43Z",
+            "open_issues": 3,
             "owner": "WecoAI",
             "repo": "aideml",
-            "stars": 1496
+            "stars": 1496,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "automated-machine-learning",
+              "autonomous-agents",
+              "autoresearch",
+              "code-optimization",
+              "data-science",
+              "llm",
+              "machine-learning",
+              "self-improving-ai"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -534,12 +919,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+            "homepage": "https://arxiv.org/abs/2604.05854",
             "id": 1204520409,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-03T03:18:50Z",
+            "open_issues": 16,
             "owner": "Xiangyue-Zhang",
             "repo": "auto-deep-researcher-24x7",
-            "stars": 1285
+            "stars": 1285,
+            "topics": [
+              "ai-agent",
+              "autonomous-agent",
+              "claude-code",
+              "deep-learning",
+              "experiment-automation",
+              "gpu",
+              "hyperparameter-tuning",
+              "llm-agent",
+              "machine-learning",
+              "mlops",
+              "pytorch",
+              "research-automation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -550,12 +953,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❓Curie: Automated and Rigorous Scientific Experimentation with AI Agents",
+            "homepage": "https://www.just-curieous.com/",
             "id": 926207459,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-28T05:36:54Z",
+            "open_issues": 23,
             "owner": "Just-Curieous",
             "repo": "Curie",
-            "stars": 371
+            "stars": 371,
+            "topics": [
+              "ai-agents",
+              "ai-for-science",
+              "artificial-intelligence",
+              "cli",
+              "gpt",
+              "llm",
+              "scientific-experiment",
+              "scientific-research"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -566,12 +983,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Hypothesis Testing with Agentic Sequential Falsifications",
+            "homepage": null,
             "id": 923294106,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-14T03:19:14Z",
+            "open_issues": 6,
             "owner": "snap-stanford",
             "repo": "POPPER",
-            "stars": 289
+            "stars": 289,
+            "topics": [
+              "agent",
+              "ai-for-science",
+              "hypothesis-testing",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -582,12 +1009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!",
+            "homepage": null,
             "id": 891365119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-14T06:50:14Z",
+            "open_issues": 11,
             "owner": "TheBlewish",
             "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3012
+            "stars": 3012,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         }
@@ -604,12 +1036,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Biomni: a general-purpose biomedical AI agent",
+            "homepage": "https://biomni.stanford.edu",
             "id": 951543275,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T18:55:59Z",
+            "open_issues": 96,
             "owner": "snap-stanford",
             "repo": "Biomni",
-            "stars": 3806
+            "stars": 3806,
+            "topics": [
+              "agent",
+              "ai",
+              "biomedicine"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -620,12 +1061,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chemcrow",
+            "homepage": null,
             "id": 649361700,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-19T17:47:04Z",
+            "open_issues": 15,
             "owner": "ur-whitelab",
             "repo": "chemcrow-public",
-            "stars": 946
+            "stars": 946,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -636,12 +1082,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A virtual lab of LLM agents for science research",
+            "homepage": null,
             "id": 847862507,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-12-31T04:15:53Z",
+            "open_issues": 6,
             "owner": "zou-group",
             "repo": "virtual-lab",
-            "stars": 728
+            "stars": 728,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -652,12 +1103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 845681738,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-10T02:24:17Z",
+            "open_issues": 11,
             "owner": "lamm-mit",
             "repo": "SciAgentsDiscovery",
-            "stars": 635
+            "stars": 635,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -668,12 +1124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robin: A multi-agent system for automating scientific discovery",
+            "homepage": null,
             "id": 986611159,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-21T23:58:38Z",
+            "open_issues": 5,
             "owner": "Future-House",
             "repo": "robin",
-            "stars": 687
+            "stars": 688,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -684,12 +1145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OriGene: A Self-Evolving Virtual Disease Biologist for Mechanism-Guided Therapeutic Target Discovery",
+            "homepage": null,
             "id": 994744646,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-24T12:23:52Z",
+            "open_issues": 1,
             "owner": "GENTEL-lab",
             "repo": "OriGene",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -700,12 +1166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 698765873,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-11T18:19:13Z",
+            "open_issues": 3,
             "owner": "gomesgroup",
             "repo": "coscientist",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         }
@@ -722,12 +1193,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+            "homepage": "https://buymeacoffee.com/crucify020v",
             "id": 1167300963,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T09:55:24Z",
+            "open_issues": 19,
             "owner": "Imbad0202",
             "repo": "academic-research-skills",
-            "stars": 44088
+            "stars": 44103,
+            "topics": [
+              "academic-pipeline",
+              "academic-writing",
+              "ai-research",
+              "claude",
+              "claude-code",
+              "literature-review",
+              "peer-review",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -738,12 +1223,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "符合nature论文学术表达和科研绘图的Skill",
+            "homepage": null,
             "id": 1219596233,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:00:55Z",
+            "open_issues": 0,
             "owner": "Yuan1z0825",
             "repo": "nature-skills",
-            "stars": 37645
+            "stars": 37676,
+            "topics": [
+              "codex-skills",
+              "nature",
+              "nature-skills"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -754,12 +1248,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+            "homepage": null,
             "id": 1177608268,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T09:30:40Z",
+            "open_issues": 62,
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 15393
+            "stars": 15403,
+            "topics": [
+              "ai-research",
+              "ai-tools",
+              "aris",
+              "autonomous-agent",
+              "claude",
+              "claude-code",
+              "claude-code-skills",
+              "codex",
+              "deep-learning",
+              "gpt",
+              "idea-generation",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "mcp-server",
+              "ml-research",
+              "openai",
+              "paper-review",
+              "paper-writing",
+              "research-automation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -770,12 +1290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://feynman.is",
             "id": 1186559664,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T22:24:10Z",
+            "open_issues": 1,
             "owner": "companion-inc",
             "repo": "feynman",
-            "stars": 8614
+            "stars": 8614,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -786,12 +1311,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+            "homepage": "https://udit.co/projects/autoresearch",
             "id": 1180917769,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-12T22:28:18Z",
+            "open_issues": 3,
             "owner": "uditgoenka",
             "repo": "autoresearch",
-            "stars": 5955
+            "stars": 5956,
+            "topics": [
+              "ai",
+              "autonomous-agent",
+              "autoresearch",
+              "claude",
+              "claude-code",
+              "iteration",
+              "karpathy",
+              "productivity",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -802,12 +1342,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and publication.",
+            "homepage": null,
             "id": 1143237475,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T10:20:31Z",
+            "open_issues": 3,
             "owner": "Galaxy-Dawn",
             "repo": "claude-scholar",
-            "stars": 5245
+            "stars": 5246,
+            "topics": [
+              "academic-research",
+              "ai-agents",
+              "claude",
+              "claude-code",
+              "codex-cli",
+              "developer-tools",
+              "kimi-code",
+              "mcp",
+              "openai-codex",
+              "opencode",
+              "paper-writing",
+              "zotero"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -818,12 +1376,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
+            "homepage": "https://stevenyuyy.com/zotero-mcp/",
             "id": 953089294,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T02:00:54Z",
+            "open_issues": 56,
             "owner": "54yyyu",
             "repo": "zotero-mcp",
-            "stars": 4829
+            "stars": 4829,
+            "topics": [
+              "claude",
+              "mcp",
+              "semantic-search",
+              "zotero"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -834,12 +1402,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A local MCP server for agent literature work. Original-LaTeX section reads, BibTeX from arXiv metadata, and topic watches. Papers stay on disk. Search is optional.",
+            "homepage": "https://www.pulsemcp.com/servers/blazickjp-arxiv-mcp-server",
             "id": 896146306,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T23:16:26Z",
+            "open_issues": 7,
             "owner": "blazickjp",
             "repo": "arxiv-mcp-server",
-            "stars": 3091
+            "stars": 3091,
+            "topics": [
+              "ai",
+              "arxiv",
+              "claude-ai",
+              "gpt",
+              "llm",
+              "mcp-server",
+              "model-context-protocol",
+              "papers",
+              "python",
+              "research"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -850,12 +1434,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP, CLI, Skills for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc.",
+            "homepage": null,
             "id": 961295208,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T05:39:02Z",
+            "open_issues": 53,
             "owner": "openags",
             "repo": "paper-search-mcp",
-            "stars": 2515
+            "stars": 2515,
+            "topics": [
+              "ai-scientist",
+              "arxiv-papers",
+              "mcp-server",
+              "paper-search"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -866,12 +1460,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
+            "homepage": "https://morphmind.ai",
             "id": 1275268652,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T07:58:33Z",
+            "open_issues": 2,
             "owner": "AIScientists-Dev",
             "repo": "academic-humanizer",
-            "stars": 1174
+            "stars": 1177,
+            "topics": [
+              "academic-writing",
+              "grant-writing",
+              "llm",
+              "nih",
+              "nsf",
+              "research",
+              "scientific-writing",
+              "writing-assistant"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -882,12 +1490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an OpenClaw skill that can generate paper search-review-critque expert-agent relevant to specific topics (we use Scientific ML and 3D geometry surrogate modeling as a demo).",
+            "homepage": null,
             "id": 1170355130,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-11T12:34:35Z",
+            "open_issues": 0,
             "owner": "guhaohao0991",
             "repo": "PaperClaw",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -898,12 +1511,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "适用于 Claude Code / Agent 的论文写作 Skill (论文.SKILL)。涵盖论文内容、数据库ER图、整体流程图生成。针对本科论文进行aigc率降低、降重的优化，助力毕业设计高质量生成。",
+            "homepage": null,
             "id": 1174371701,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-02T07:18:51Z",
+            "open_issues": 0,
             "owner": "Stars-OC",
             "repo": "thesis-creator",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "ai-assistant",
+              "chinese-academic",
+              "claude-code",
+              "codex",
+              "graduation-thesis",
+              "skills",
+              "thesis-writing"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -914,12 +1540,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source agent skills for AI for Science: topic exploration, literature survey, experiments, paper writing, and integrity audit — driven by any coding agent.",
+            "homepage": null,
             "id": 1282340577,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T02:02:45Z",
+            "open_issues": 0,
             "owner": "ai4s-research",
             "repo": "ai4s-skills",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "agent-skills",
+              "ai-agent",
+              "ai-for-science",
+              "ai-scientist",
+              "ai4s",
+              "claude-code",
+              "claude-skills",
+              "literature-review",
+              "open-science",
+              "opencode",
+              "paper-writing",
+              "reproducible-research",
+              "research-tools",
+              "scientific-research"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -930,12 +1576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Academic Research Workflow Skill. From direction exploration, literature review, and idea development to experiment design, code implementation, and paper writing.",
+            "homepage": null,
             "id": 1259441781,
             "language": "Batchfile",
+            "license": "MIT",
             "last_commit": "2026-08-01T09:11:03Z",
+            "open_issues": 0,
             "owner": "LMDHQ-0420",
             "repo": "ResearchPilot-Skills",
-            "stars": 269
+            "stars": 269,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -946,12 +1597,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude Code skill that encodes battle-tested editorial principles, section-specific rhetorical moves, and a structured writing pipeline for research papers. Brainstorm → Draft 0 → Evaluate → Write → Compress.",
+            "homepage": "https://sites.cs.ucsb.edu/~arpitgupta/",
             "id": 1191156805,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-31T18:24:37Z",
+            "open_issues": 2,
             "owner": "SNL-UCSB",
             "repo": "paper-writing-skill",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "academic-writing",
+              "claude-code",
+              "paper-writing",
+              "phd",
+              "research"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -962,12 +1624,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete academic research Skill suite. Supports Claude Code, ChatGPT / Codex CLI, and Gemini CLI.",
+            "homepage": null,
             "id": 1184293014,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2026-04-04T08:24:12Z",
+            "open_issues": 0,
             "owner": "voidful",
             "repo": "academic-skills",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -978,12 +1645,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general purpose scientific writer",
+            "homepage": "https://k-dense.ai",
             "id": 1084058975,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T09:24:21Z",
+            "open_issues": 3,
             "owner": "K-Dense-AI",
             "repo": "claude-scientific-writer",
-            "stars": 2264
+            "stars": 2265,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "skills",
+              "tools",
+              "writer"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -994,12 +1673,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.",
+            "homepage": "https://psantanna.com/claude-code-my-workflow/",
             "id": 1151617003,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:57:42Z",
+            "open_issues": 5,
             "owner": "pedrohcgs",
             "repo": "claude-code-my-workflow",
-            "stars": 1541
+            "stars": 1541,
+            "topics": [
+              "academic-writing",
+              "causal-inference",
+              "claude-code",
+              "claude-code-skills",
+              "econometrics",
+              "economics",
+              "latex",
+              "quarto",
+              "reproducible-research",
+              "research-workflow"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1010,12 +1705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1100000177,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-24T22:27:41Z",
+            "open_issues": 3,
             "owner": "mshumer",
             "repo": "autonomous-researcher",
-            "stars": 814
+            "stars": 814,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1026,12 +1726,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints.",
+            "homepage": null,
             "id": 1127499996,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-04T02:42:38Z",
+            "open_issues": 1,
             "owner": "lishix520",
             "repo": "academic-paper-skills",
-            "stars": 1225
+            "stars": 1225,
+            "topics": [
+              "academic-writing",
+              "claude-code",
+              "philosophy",
+              "preprint",
+              "research-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1042,12 +1753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them.",
+            "homepage": null,
             "id": 1192900590,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-13T07:23:07Z",
+            "open_issues": 0,
             "owner": "andrehuang",
             "repo": "research-companion",
-            "stars": 711
+            "stars": 711,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1058,12 +1774,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧬 Extend EvoScientist with Installable Skill & Knowledge Packs",
+            "homepage": "https://EvoScientist.ai/",
             "id": 1146575521,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T07:28:07Z",
+            "open_issues": 9,
             "owner": "EvoScientist",
             "repo": "EvoSkills",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "ai-agent",
+              "ai4science",
+              "skills",
+              "vibe-research"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1074,12 +1800,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
+            "homepage": "https://skills.amditis.tech/",
             "id": 1122958696,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:16:44Z",
+            "open_issues": 27,
             "owner": "jamditis",
             "repo": "claude-skills-journalism",
-            "stars": 376
+            "stars": 376,
+            "topics": [
+              "academic-writing",
+              "claude",
+              "claude-code",
+              "claude-skills",
+              "data-journalism",
+              "fact-checking",
+              "foia",
+              "journalism",
+              "media",
+              "newsroom",
+              "osint",
+              "skills",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1090,12 +1835,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto Research with UI. Autonomous Generalist Scientist / AI Scientist / Agent Scientist / Robot Scientist, across all Scientific Fields.",
+            "homepage": "https://openags.com/",
             "id": 814878405,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-27T09:00:24Z",
+            "open_issues": 0,
             "owner": "openags",
             "repo": "auto-researcher",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai-scientist",
+              "artificial-intelligence",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1106,12 +1860,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent skills for drafting, revising, auditing, and resubmitting Nature-style journal manuscripts.",
+            "homepage": null,
             "id": 1208279709,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2026-08-17T05:45:38Z",
+            "open_issues": 0,
             "owner": "Boom5426",
             "repo": "Nature-Paper-Skills",
-            "stars": 465
+            "stars": 465,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1122,12 +1881,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI workflow skill pack for research, competitions, and innovation projects.",
+            "homepage": "https://github.com/Light0305/Light-skills#readme",
             "id": 1261725242,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T12:50:21Z",
+            "open_issues": 1,
             "owner": "Light0305",
             "repo": "Light-skills",
-            "stars": 546
+            "stars": 546,
+            "topics": [
+              "academic-writing",
+              "agent-skills",
+              "ai-agent",
+              "ai-skills",
+              "claude-code",
+              "codex",
+              "latex",
+              "literature-review",
+              "llm-skills",
+              "opencode",
+              "paper-writing",
+              "research-tools",
+              "scientific-figures",
+              "scientific-workflow"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1138,12 +1917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A professional research suite for conducting rigorous academic research using specialized agents and multi-platform CLI commands. Compatible with Claude Code, Gemini CLI, OpenAI Codex, and OpenCode.",
+            "homepage": "https://coresearcher.poemswe.com",
             "id": 1124416073,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T20:50:00Z",
+            "open_issues": 3,
             "owner": "poemswe",
             "repo": "co-researcher",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1154,12 +1938,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shareable Claude Code + Codex infrastructure for PhD researchers — skills, agents, hooks, and rules for academic workflows",
+            "homepage": null,
             "id": 1162504337,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T22:22:43Z",
+            "open_issues": 1,
             "owner": "flonat",
             "repo": "flonat-research",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "academic-research",
+              "ai-tools",
+              "claude",
+              "claude-code",
+              "codex",
+              "latex",
+              "phd",
+              "research-workflow"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1170,12 +1968,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug discovery, clinical research, machine learning, and data analysis.",
+            "homepage": null,
             "id": 1168281163,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T11:43:50Z",
+            "open_issues": 0,
             "owner": "LeonChaoX",
             "repo": "qinyan-academic-skills",
-            "stars": 844
+            "stars": 844,
+            "topics": [
+              "academic",
+              "ai-assistant",
+              "arxiv",
+              "claude-code",
+              "google-scholar",
+              "literature-review",
+              "openclaw",
+              "paper-search",
+              "pubmed",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1186,12 +2000,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skills for Claude Code — deep-research: systematic academic literature review",
+            "homepage": null,
             "id": 1162231772,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-27T04:11:14Z",
+            "open_issues": 5,
             "owner": "lingzhi227",
             "repo": "agent-research-skills",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1202,12 +2021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code plugin: multi-agent orchestrator with 10 specialist agents for academic writing review, research, drafting, and polishing",
+            "homepage": null,
             "id": 1192497887,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-11T12:54:27Z",
+            "open_issues": 1,
             "owner": "andrehuang",
             "repo": "academic-writing-agents",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         }
@@ -1224,12 +2048,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
+            "homepage": "https://openai.com/index/mle-bench/",
             "id": 869660918,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-24T17:33:44Z",
+            "open_issues": 10,
             "owner": "openai",
             "repo": "mle-bench",
-            "stars": 1724
+            "stars": 1724,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1240,12 +2069,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 684903423,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-19T13:53:23Z",
+            "open_issues": 6,
             "owner": "snap-stanford",
             "repo": "MLAgentBench",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1256,12 +2090,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A benchmark that challenges language models to code solutions for scientific problems",
+            "homepage": null,
             "id": 825810755,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T17:14:40Z",
+            "open_issues": 21,
             "owner": "scicode-bench",
             "repo": "SciCode",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "ai",
+              "ai-benchmarks",
+              "benchmark",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1272,12 +2116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR2026] NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents",
+            "homepage": null,
             "id": 1072288305,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-27T01:04:09Z",
+            "open_issues": 1,
             "owner": "HKUST-KnowComp",
             "repo": "NewtonBench",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1288,12 +2137,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmark for LLM-based Agents in Computational Biology",
+            "homepage": "https://arxiv.org/abs/2503.00096",
             "id": 935670949,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-06T21:54:03Z",
+            "open_issues": 4,
             "owner": "Future-House",
             "repo": "BixBench",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "artificial-intelligence",
+              "bioinformatics",
+              "language-agents"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1304,12 +2162,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A language agent gym with challenging scientific tasks",
+            "homepage": "https://futurehouse.gitbook.io/futurehouse-cookbook/aviary",
             "id": 848437422,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:57:49Z",
+            "open_issues": 14,
             "owner": "Future-House",
             "repo": "aviary",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "ai4science",
+              "artificial-intelligence",
+              "language-agents",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1320,12 +2188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Discovering Data-driven Hypotheses in the Wild",
+            "homepage": null,
             "id": 806006227,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-09T04:42:01Z",
+            "open_issues": 7,
             "owner": "allenai",
             "repo": "discoverybench",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1336,12 +2209,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR'25] ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery",
+            "homepage": "https://osu-nlp-group.github.io/ScienceAgentBench",
             "id": 866594191,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-18T05:25:41Z",
+            "open_issues": 0,
             "owner": "OSU-NLP-Group",
             "repo": "ScienceAgentBench",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "ai4science",
+              "bioinformatics",
+              "chemoinformatics",
+              "code-generation",
+              "cognitive-neuroscience",
+              "geoscience",
+              "language-agent",
+              "large-language-models",
+              "task-automation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         }
@@ -1358,12 +2246,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+            "homepage": "https://www.webfuse.com/autoresearch",
             "id": 1187150337,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T11:34:18Z",
+            "open_issues": 8,
             "owner": "webfuse-com",
             "repo": "awesome-autoresearch",
-            "stars": 2501
+            "stars": 2502,
+            "topics": [
+              "agentic-systems",
+              "ai-agents",
+              "ai-research",
+              "ai-tools",
+              "autonomous-agents",
+              "autoresearch",
+              "awesome-list",
+              "claude-code",
+              "experiment-loops",
+              "karpathy",
+              "karpathy-inspired",
+              "llm-agents",
+              "research-agents",
+              "scientific-discovery",
+              "self-improving-systems"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1374,12 +2283,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+            "homepage": "https://github.com/ai-boost/awesome-ai-for-science",
             "id": 1069616483,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T04:54:55Z",
+            "open_issues": 31,
             "owner": "ai4s-research",
             "repo": "awesome-ai-for-science",
-            "stars": 1918
+            "stars": 1918,
+            "topics": [
+              "ai-for-science",
+              "ai4s",
+              "ai4science",
+              "awesome",
+              "awesome-list",
+              "bioinformatics",
+              "scientific-ai"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1390,12 +2312,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
+            "homepage": "https://arxiv.org/abs/2604.14228",
             "id": 1207687985,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T18:03:54Z",
+            "open_issues": 1,
             "owner": "VILA-Lab",
             "repo": "Dive-into-Claude-Code",
-            "stars": 2082
+            "stars": 2082,
+            "topics": [
+              "claude",
+              "claude-code"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1406,12 +2336,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous Agents (LLMs) research papers. Updated Daily.",
+            "homepage": null,
             "id": 692466689,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-24T17:03:27Z",
+            "open_issues": 2,
             "owner": "tmgthb",
             "repo": "Autonomous-Agents",
-            "stars": 1372
+            "stars": 1372,
+            "topics": [
+              "agent",
+              "agent-context",
+              "agent-harness",
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "ai-agents",
+              "aiagent",
+              "aiagents",
+              "autonomous-agents",
+              "cognitive-agents",
+              "computer-use-agent",
+              "embodied-agent",
+              "generalist-agent",
+              "language-agent",
+              "llm",
+              "llm-agents",
+              "llmagents",
+              "research-paper"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1422,12 +2378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of automated research tools, covering literature search, paper reading, experiment management, and code generation to help researchers accelerate their workflow.",
+            "homepage": null,
             "id": 1182951087,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-24T10:06:37Z",
+            "open_issues": 13,
             "owner": "handsome-rich",
             "repo": "Awesome-Auto-Research-Tools",
-            "stars": 1169
+            "stars": 1171,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1438,12 +2399,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2026 KnowFM] Awesome Agentic Deep Research Resources",
+            "homepage": "https://arxiv.org/abs/2506.18959",
             "id": 997120524,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-23T04:27:32Z",
+            "open_issues": 10,
             "owner": "DavidZWZ",
             "repo": "Awesome-Deep-Research",
-            "stars": 855
+            "stars": 855,
+            "topics": [
+              "agentic-ai",
+              "agentic-rag",
+              "deep-research",
+              "deep-research-agent",
+              "large-language-models",
+              "llms",
+              "rag",
+              "reasoning",
+              "reasoning-agent",
+              "search-agent"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1454,12 +2431,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Deep Research list! For more details, please refer to our survey paper -- A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications",
+            "homepage": "https://arxiv.org/abs/2506.12594",
             "id": 985361409,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-10-22T14:06:04Z",
+            "open_issues": 5,
             "owner": "scienceaix",
             "repo": "deepresearch",
-            "stars": 434
+            "stars": 434,
+            "topics": [
+              "deep-research"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1470,12 +2454,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 A Survey on AI Auto-Research",
+            "homepage": "https://worldbench.github.io/awesome-ai-auto-research",
             "id": 1194915762,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-27T23:08:28Z",
+            "open_issues": 1,
             "owner": "worldbench",
             "repo": "awesome-ai-auto-research",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "ai",
+              "ai-research",
+              "ai-scientist",
+              "auto-research",
+              "large-language-models",
+              "llm",
+              "multi-agent-system",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
@@ -1486,12 +2486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of autonomous research systems and tools.",
+            "homepage": null,
             "id": 1188539168,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-03T12:29:21Z",
+            "open_issues": 6,
             "owner": "MinhaoXiong",
             "repo": "awesome-automated-research",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         }
@@ -1500,15 +2505,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:21.287Z",
+    "last_updated": "2026-08-29T04:56:45.621Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated hub of autonomous-research skills & agents — from idea to paper, on autopilot. | 自主科研技能与智能体精选库 —— 从灵感到论文全文，全程自动完成。",
+      "homepage": null,
       "id": 1251648241,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-24T06:30:50Z",
+      "open_issues": 1,
       "owner": "brycewang-stanford",
       "repo": "Auto-Research-Skills",
-      "stars": 142
+      "stars": 142,
+      "topics": [
+        "academic-research",
+        "agent-skills",
+        "ai-agents",
+        "ai-scientist",
+        "anthropic",
+        "auto-research",
+        "autonomous-agents",
+        "awesome-list",
+        "causal-inference",
+        "claude",
+        "claude-code",
+        "data-analysis",
+        "deep-research",
+        "literature-review",
+        "llm-agents",
+        "machine-learning",
+        "paper-writing",
+        "reproducible-research",
+        "research-automation",
+        "scientific-computing"
+      ]
     },
     "original_repository_sha": "d21279e297ffb1aa46a011bb8a7d1ba13a0e24f3",
     "enhanced_repository": "enhansome/enhansome-Auto-Research-Skills",
