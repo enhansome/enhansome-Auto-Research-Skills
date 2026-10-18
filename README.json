@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "karpathy/autoresearch",
-          "description": "~90.8k Python Karpathy 的过夜研究循环：AI 智能体在单卡 nanochat LLM 训练上自动提出、运行并评估实验。",
+          "description": "~98.1k Python Karpathy 的过夜研究循环：AI 智能体在单卡 nanochat LLM 训练上自动提出、运行并评估实验。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,28 @@
             "open_issues": 197,
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 98060,
+            "stars": 98104,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SakanaAI/AI-Scientist",
+          "description": "~14.8k Python 提想法、跑实验、写论文并自动评审。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
+            "homepage": null,
+            "id": 841376583,
+            "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
+            "last_commit": "2025-12-19T07:46:21Z",
+            "open_issues": 123,
+            "owner": "SakanaAI",
+            "repo": "AI-Scientist",
+            "stars": 14757,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
@@ -27,7 +48,7 @@
         {
           "node_type": "item",
           "title": "aiming-lab/AutoResearchClaw",
-          "description": "~12.8k Agent 全自主、自进化研究，从想法到论文。",
+          "description": "~14.7k Agent 全自主、自进化研究，从想法到论文。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -37,10 +58,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-19T03:35:13Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14692,
+            "stars": 14702,
             "topics": [
               "autonomous-research",
               "citation-verification",
@@ -57,29 +78,8 @@
         },
         {
           "node_type": "item",
-          "title": "SakanaAI/AI-Scientist",
-          "description": "~13.8k Python 提想法、跑实验、写论文并自动评审。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
-            "homepage": null,
-            "id": 841376583,
-            "language": "Jupyter Notebook",
-            "license": "NOASSERTION",
-            "last_commit": "2025-12-19T07:46:21Z",
-            "open_issues": 123,
-            "owner": "SakanaAI",
-            "repo": "AI-Scientist",
-            "stars": 14750,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "SakanaAI/AI-Scientist-v2",
-          "description": "~6.4k Python v2 —— 智能体树搜索，产出 workshop 级论文，更少模板约束。",
+          "description": "~7.4k Python v2 —— 智能体树搜索，产出 workshop 级论文，更少模板约束。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -92,7 +92,7 @@
             "open_issues": 80,
             "owner": "SakanaAI",
             "repo": "AI-Scientist-v2",
-            "stars": 7360,
+            "stars": 7366,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
@@ -100,7 +100,7 @@
         {
           "node_type": "item",
           "title": "SamuelSchmidgall/AgentLaboratory",
-          "description": "~5.6k Python LLM 智能体充当研究助理，覆盖完整流水线。",
+          "description": "~5.9k Python LLM 智能体充当研究助理，覆盖完整流水线。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -121,7 +121,7 @@
         {
           "node_type": "item",
           "title": "HKUDS/AI-Researcher",
-          "description": "~5.4k Python NeurIPS 2025 —— 自主科学创新，从想法到论文。",
+          "description": "~5.8k Python NeurIPS 2025 —— 自主科学创新，从想法到论文。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -144,7 +144,7 @@
         {
           "node_type": "item",
           "title": "EvoScientist/EvoScientist",
-          "description": "~4.1k Python 自进化多智能体 AI 科学家，持久记忆驱动的「vibe research」。",
+          "description": "~5.0k Python 自进化多智能体 AI 科学家，持久记忆驱动的「vibe research」。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,10 +154,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T00:57:40Z",
-            "open_issues": 67,
+            "open_issues": 69,
             "owner": "EvoScientist",
             "repo": "EvoScientist",
-            "stars": 4983,
+            "stars": 4987,
             "topics": [
               "ai-agent",
               "ai4science",
@@ -170,7 +170,7 @@
         {
           "node_type": "item",
           "title": "ResearAI/DeepScientist",
-          "description": "~3.2k TS · Python 本地优先的自主研究工作室：基线复现 → 实验 → 论文级产出。",
+          "description": "~3.4k TS · Python 本地优先的自主研究工作室：基线复现 → 实验 → 论文级产出。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -183,7 +183,7 @@
             "open_issues": 16,
             "owner": "ResearAI",
             "repo": "DeepScientist",
-            "stars": 3376,
+            "stars": 3377,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
@@ -191,7 +191,7 @@
         {
           "node_type": "item",
           "title": "OpenNSWM-Lab/FAROS",
-          "description": "~1.8k Python 蓝图驱动的 AutoResearch 运行时：想法 → 实验 → 写作 → 同行评审。",
+          "description": "~3.0k Python 蓝图驱动的 AutoResearch 运行时：想法 → 实验 → 写作 → 同行评审。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +204,7 @@
             "open_issues": 147,
             "owner": "OpenNSWM-Lab",
             "repo": "FAROS",
-            "stars": 3040,
+            "stars": 3041,
             "topics": [
               "academic-research",
               "academic-writing",
@@ -232,8 +232,38 @@
         },
         {
           "node_type": "item",
+          "title": "InternScience/InternAgent",
+          "description": "~1.5k Python 统一 agentic 框架，面向长时程、跨领域的自主科学发现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery",
+            "homepage": "https://discovery.intern-ai.org.cn/home",
+            "id": 984654077,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-07-29T07:46:45Z",
+            "open_issues": 6,
+            "owner": "InternScience",
+            "repo": "InternAgent",
+            "stars": 1457,
+            "topics": [
+              "agentic-framework",
+              "ai-scientists",
+              "automatic-paper-survey",
+              "automatic-scientific-discovery",
+              "coding-agents",
+              "hypothesis-generation",
+              "llm-coder",
+              "multi-agent-systems"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "OpenRaiser/NanoResearch",
-          "description": "~1.5k Python 轻量级自主 AI 研究助手（skills/agent 驱动），从选题到端到端研究。",
+          "description": "~1.3k Python 轻量级自主 AI 研究助手（skills/agent 驱动），从选题到端到端研究。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -267,38 +297,8 @@
         },
         {
           "node_type": "item",
-          "title": "InternScience/InternAgent",
-          "description": "~1.4k Python 统一 agentic 框架，面向长时程、跨领域的自主科学发现。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery",
-            "homepage": "https://discovery.intern-ai.org.cn/home",
-            "id": 984654077,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-29T07:46:45Z",
-            "open_issues": 6,
-            "owner": "InternScience",
-            "repo": "InternAgent",
-            "stars": 1456,
-            "topics": [
-              "agentic-framework",
-              "ai-scientists",
-              "automatic-paper-survey",
-              "automatic-scientific-discovery",
-              "coding-agents",
-              "hypothesis-generation",
-              "llm-coder",
-              "multi-agent-systems"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "zhu-minjun/Researcher",
-          "description": "~398 Python CycleResearcher —— 通过自动评审改进自动研究的迭代循环。",
+          "description": "~406 Python CycleResearcher —— 通过自动评审改进自动研究的迭代循环。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -318,29 +318,8 @@
         },
         {
           "node_type": "item",
-          "title": "tsinghua-fib-lab/OmniScientist",
-          "description": "~153 Python AI 科学家生态，编码人类科研基建以自动化想法、文献、实验与写作。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1100645740,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-01-28T07:46:15Z",
-            "open_issues": 2,
-            "owner": "tsinghua-fib-lab",
-            "repo": "OmniScientist",
-            "stars": 207,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "Sibyl-Research-Team/AutoResearch-SibylSystem",
-          "description": "~247 Claude Code 自进化自主研究系统，原生构建于 Claude Code。",
+          "description": "~287 Claude Code 自进化自主研究系统，原生构建于 Claude Code。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -382,7 +361,7 @@
         {
           "node_type": "item",
           "title": "ulab-uiuc/research-town",
-          "description": "~205 Python ICML 2025 —— 模拟人类科研社区的多智能体。",
+          "description": "~214 Python ICML 2025 —— 模拟人类科研社区的多智能体。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -403,6 +382,27 @@
             ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tsinghua-fib-lab/OmniScientist",
+          "description": "~207 Python AI 科学家生态，编码人类科研基建以自动化想法、文献、实验与写作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1100645740,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-01-28T07:46:15Z",
+            "open_issues": 2,
+            "owner": "tsinghua-fib-lab",
+            "repo": "OmniScientist",
+            "stars": 207,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
         }
       ],
       "title": "🧠 端到端自主研究系统"
@@ -412,72 +412,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "assafelovic/gpt-researcher",
-          "description": "~27.3k Python 规划 → 抓取 → 带引用报告。经典之作。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
-            "homepage": "https://gptr.dev",
-            "id": 639835356,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-10T22:03:53Z",
-            "open_issues": 39,
-            "owner": "assafelovic",
-            "repo": "gpt-researcher",
-            "stars": 30144,
-            "topics": [
-              "agent",
-              "ai",
-              "automation",
-              "deepresearch",
-              "llms",
-              "mcp",
-              "mcp-server",
-              "python",
-              "research",
-              "search",
-              "webscraping"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "stanford-oval/storm",
-          "description": "~28.3k Python 维基百科式长篇报告合成（斯坦福）。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
-            "homepage": "http://storm.genie.stanford.edu",
-            "id": 776854298,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-09-30T18:07:21Z",
-            "open_issues": 111,
-            "owner": "stanford-oval",
-            "repo": "storm",
-            "stars": 31655,
-            "topics": [
-              "agentic-rag",
-              "deep-research",
-              "emnlp2024",
-              "knowledge-curation",
-              "large-language-models",
-              "naacl",
-              "nlp",
-              "report-generation",
-              "retrieval-augmented-generation"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "bytedance/deer-flow",
-          "description": "~70k LangGraph 深度研究，支持人机协同。",
+          "description": "~84.1k LangGraph 深度研究，支持人机协同。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -486,11 +422,11 @@
             "id": 979115477,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T12:53:43Z",
-            "open_issues": 970,
+            "last_commit": "2026-10-18T14:03:27Z",
+            "open_issues": 955,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 84020,
+            "stars": 84075,
             "topics": [
               "agent",
               "agentic",
@@ -516,8 +452,72 @@
         },
         {
           "node_type": "item",
+          "title": "stanford-oval/storm",
+          "description": "~31.7k Python 维基百科式长篇报告合成（斯坦福）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "homepage": "http://storm.genie.stanford.edu",
+            "id": 776854298,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-09-30T18:07:21Z",
+            "open_issues": 111,
+            "owner": "stanford-oval",
+            "repo": "storm",
+            "stars": 31660,
+            "topics": [
+              "agentic-rag",
+              "deep-research",
+              "emnlp2024",
+              "knowledge-curation",
+              "large-language-models",
+              "naacl",
+              "nlp",
+              "report-generation",
+              "retrieval-augmented-generation"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "assafelovic/gpt-researcher",
+          "description": "~30.2k Python 规划 → 抓取 → 带引用报告。经典之作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+            "homepage": "https://gptr.dev",
+            "id": 639835356,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-10T22:03:53Z",
+            "open_issues": 42,
+            "owner": "assafelovic",
+            "repo": "gpt-researcher",
+            "stars": 30159,
+            "topics": [
+              "agent",
+              "ai",
+              "automation",
+              "deepresearch",
+              "llms",
+              "mcp",
+              "mcp-server",
+              "python",
+              "research",
+              "search",
+              "webscraping"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "dzhng/deep-research",
-          "description": "~19.0k TypeScript 最简实现的迭代式深度研究智能体，能自我修正研究方向。",
+          "description": "~19.8k TypeScript 最简实现的迭代式深度研究智能体，能自我修正研究方向。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,7 +530,7 @@
             "open_issues": 96,
             "owner": "dzhng",
             "repo": "deep-research",
-            "stars": 19790,
+            "stars": 19793,
             "topics": [
               "agent",
               "ai",
@@ -543,8 +543,55 @@
         },
         {
           "node_type": "item",
+          "title": "langchain-ai/open_deep_research",
+          "description": "~12.7k LangGraph 开源、可配置的深度研究智能体。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": null,
+            "homepage": null,
+            "id": 891642747,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-10T18:13:37Z",
+            "open_issues": 72,
+            "owner": "langchain-ai",
+            "repo": "open_deep_research",
+            "stars": 12681,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Future-House/paper-qa",
+          "description": "~9.4k Python PaperQA2 —— 对科学 PDF 做高准确率、带引用的 RAG 问答。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "High accuracy RAG for answering questions from scientific documents with citations",
+            "homepage": "https://futurehouse.gitbook.io/futurehouse-cookbook",
+            "id": 597583114,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-13T21:49:06Z",
+            "open_issues": 155,
+            "owner": "Future-House",
+            "repo": "paper-qa",
+            "stars": 9406,
+            "topics": [
+              "ai",
+              "rag",
+              "science",
+              "search"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "LearningCircuit/local-deep-research",
-          "description": "~8.1k Python 本地、隐私优先的深度研究；接入 arXiv + PubMed，SimpleQA 约 95%。",
+          "description": "~9.3k Python 本地、隐私优先的深度研究；接入 arXiv + PubMed，SimpleQA 约 95%。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -553,11 +600,11 @@
             "id": 929868765,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T19:17:30Z",
-            "open_issues": 1171,
+            "last_commit": "2026-10-18T19:14:34Z",
+            "open_issues": 1206,
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 9278,
+            "stars": 9293,
             "topics": [
               "academia",
               "anthropic",
@@ -586,7 +633,7 @@
         {
           "node_type": "item",
           "title": "nickscamara/open-deep-research",
-          "description": "~6.2k TypeScript 开源深度研究复刻，基于 Firecrawl 抓取的网页数据推理。",
+          "description": "~6.3k TypeScript 开源深度研究复刻，基于 Firecrawl 抓取的网页数据推理。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -606,47 +653,25 @@
         },
         {
           "node_type": "item",
-          "title": "langchain-ai/open_deep_research",
-          "description": "~11.5k LangGraph 开源、可配置的深度研究智能体。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 891642747,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-10T18:13:37Z",
-            "open_issues": 72,
-            "owner": "langchain-ai",
-            "repo": "open_deep_research",
-            "stars": 12682,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Future-House/paper-qa",
-          "description": "~8.6k Python PaperQA2 —— 对科学 PDF 做高准确率、带引用的 RAG 问答。",
+          "title": "HKUDS/Auto-Deep-Research",
+          "description": "~1.8k Agent 低成本、全自动的个人研究助手。",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "High accuracy RAG for answering questions from scientific documents with citations",
-            "homepage": "https://futurehouse.gitbook.io/futurehouse-cookbook",
-            "id": 597583114,
+            "description": "\"Your Fully-Automated Personal AI Assistant\"",
+            "homepage": "https://arxiv.org/abs/2502.05957",
+            "id": 933502231,
             "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-13T21:49:06Z",
-            "open_issues": 156,
-            "owner": "Future-House",
-            "repo": "paper-qa",
-            "stars": 9399,
+            "license": null,
+            "last_commit": "2025-10-16T06:38:48Z",
+            "open_issues": 33,
+            "owner": "HKUDS",
+            "repo": "Auto-Deep-Research",
+            "stars": 1751,
             "topics": [
-              "ai",
-              "rag",
-              "science",
-              "search"
+              "agent",
+              "deep-research",
+              "llm"
             ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
@@ -654,7 +679,7 @@
         {
           "node_type": "item",
           "title": "AkariAsai/OpenScholar",
-          "description": "~1.6k Python 检索增强的科学文献综合系统，生成带引用的答案（AllenAI/UW）。",
+          "description": "~1.7k Python 检索增强的科学文献综合系统，生成带引用的答案（AllenAI/UW）。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -675,7 +700,7 @@
         {
           "node_type": "item",
           "title": "khoj-ai/openpaper",
-          "description": "~376 TypeScript 研究论文库工作台：阅读、标注、AI 文献综述一站式完成。",
+          "description": "~504 TypeScript 研究论文库工作台：阅读、标注、AI 文献综述一站式完成。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -705,33 +730,8 @@
         },
         {
           "node_type": "item",
-          "title": "HKUDS/Auto-Deep-Research",
-          "description": "~1.5k Agent 低成本、全自动的个人研究助手。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "\"Your Fully-Automated Personal AI Assistant\"",
-            "homepage": "https://arxiv.org/abs/2502.05957",
-            "id": 933502231,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-10-16T06:38:48Z",
-            "open_issues": 33,
-            "owner": "HKUDS",
-            "repo": "Auto-Deep-Research",
-            "stars": 1751,
-            "topics": [
-              "agent",
-              "deep-research",
-              "llm"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "AutoSurveys/AutoSurvey",
-          "description": "~468 Python 多阶段流水线，自动生成文献综述。",
+          "description": "~478 Python 多阶段流水线，自动生成文献综述。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -758,7 +758,7 @@
         {
           "node_type": "item",
           "title": "HKUDS/DeepCode",
-          "description": "~15.8k Python 开源智能编码：论文转代码（Paper2Code）+ Text2Web + Text2Backend。",
+          "description": "~16.7k Python 开源智能编码：论文转代码（Paper2Code）+ Text2Web + Text2Backend。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -768,10 +768,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-14T12:39:54Z",
-            "open_issues": 32,
+            "open_issues": 35,
             "owner": "HKUDS",
             "repo": "DeepCode",
-            "stars": 16724,
+            "stars": 16726,
             "topics": [
               "agentic-coding",
               "harness-engineering",
@@ -782,8 +782,29 @@
         },
         {
           "node_type": "item",
+          "title": "going-doer/Paper2Code",
+          "description": "~5.0k Python PaperCoder —— 将 ML 论文自动转为可运行的代码仓库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning",
+            "homepage": null,
+            "id": 972519099,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-03-25T01:00:05Z",
+            "open_issues": 17,
+            "owner": "going-doer",
+            "repo": "Paper2Code",
+            "stars": 4990,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "ruc-datalab/DeepAnalyze",
-          "description": "~4.3k Python 号称首个自主数据科学 agentic LLM：自动分析海量数据并一键生成专业分析报告。",
+          "description": "~4.7k Python 号称首个自主数据科学 agentic LLM：自动分析海量数据并一键生成专业分析报告。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -793,10 +814,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-13T07:10:50Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "ruc-datalab",
             "repo": "DeepAnalyze",
-            "stars": 4726,
+            "stars": 4729,
             "topics": [
               "agent",
               "agentic",
@@ -824,6 +845,27 @@
         },
         {
           "node_type": "item",
+          "title": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
+          "description": "~3.0k Ollama 基于本地 LLM 的自动网络研究员。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!",
+            "homepage": null,
+            "id": 891365119,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-02T10:32:50Z",
+            "open_issues": 11,
+            "owner": "TheBlewish",
+            "repo": "Automated-AI-Web-Researcher-Ollama",
+            "stars": 3020,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "starpig1129/DATAGEN",
           "description": "~1.8k LangGraph AI 驱动的多智能体研究助手，自动化假设生成、数据分析与报告写作。",
           "children": [],
@@ -838,7 +880,7 @@
             "open_issues": 7,
             "owner": "zi-yue-1129",
             "repo": "DATAGEN",
-            "stars": 1808,
+            "stars": 1809,
             "topics": [
               "agent",
               "ai",
@@ -861,29 +903,8 @@
         },
         {
           "node_type": "item",
-          "title": "going-doer/Paper2Code",
-          "description": "~4.6k Python PaperCoder —— 将 ML 论文自动转为可运行的代码仓库。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning",
-            "homepage": null,
-            "id": 972519099,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-03-25T01:00:05Z",
-            "open_issues": 17,
-            "owner": "going-doer",
-            "repo": "Paper2Code",
-            "stars": 4989,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "WecoAI/aideml",
-          "description": "~1.3k Python AIDE —— ML 工程智能体，把建模当作代码优化搜索。",
+          "description": "~1.6k Python AIDE —— ML 工程智能体，把建模当作代码优化搜索。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -896,7 +917,7 @@
             "open_issues": 3,
             "owner": "WecoAI",
             "repo": "aideml",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "ai",
               "ai-agents",
@@ -915,7 +936,7 @@
         {
           "node_type": "item",
           "title": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-          "description": "~975 Agent 7×24 跑深度学习实验，Leader-Worker，常量内存。",
+          "description": "~1.1k Agent 7×24 跑深度学习实验，Leader-Worker，常量内存。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -949,7 +970,7 @@
         {
           "node_type": "item",
           "title": "Just-Curieous/Curie",
-          "description": "~360 Python 严谨、可复现的 ML 研究实验智能体。",
+          "description": "~371 Python 严谨、可复现的 ML 研究实验智能体。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -979,7 +1000,7 @@
         {
           "node_type": "item",
           "title": "snap-stanford/POPPER",
-          "description": "~275 Python 自动化假设检验：基于波普尔「序贯证伪」思想的多智能体框架（Stanford SNAP）。",
+          "description": "~297 Python 自动化假设检验：基于波普尔「序贯证伪」思想的多智能体框架（Stanford SNAP）。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -992,34 +1013,13 @@
             "open_issues": 6,
             "owner": "snap-stanford",
             "repo": "POPPER",
-            "stars": 296,
+            "stars": 297,
             "topics": [
               "agent",
               "ai-for-science",
               "hypothesis-testing",
               "llm"
             ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
-          "description": "~3.0k Ollama 基于本地 LLM 的自动网络研究员。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!",
-            "homepage": null,
-            "id": 891365119,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-02T10:32:50Z",
-            "open_issues": 11,
-            "owner": "TheBlewish",
-            "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3020,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         }
@@ -1032,7 +1032,7 @@
         {
           "node_type": "item",
           "title": "snap-stanford/Biomni",
-          "description": "~3.1k 生物医学 通用生物医学 AI 智能体，覆盖 150+ 工具/数据库。",
+          "description": "~4.0k 生物医学 通用生物医学 AI 智能体，覆盖 150+ 工具/数据库。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1045,7 +1045,7 @@
             "open_issues": 129,
             "owner": "snap-stanford",
             "repo": "Biomni",
-            "stars": 3986,
+            "stars": 3988,
             "topics": [
               "agent",
               "ai",
@@ -1057,7 +1057,7 @@
         {
           "node_type": "item",
           "title": "ur-whitelab/chemcrow-public",
-          "description": "~915 化学 面向合成、药物发现、材料的 LLM 化学智能体。",
+          "description": "~965 化学 面向合成、药物发现、材料的 LLM 化学智能体。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1070,7 +1070,7 @@
             "open_issues": 15,
             "owner": "ur-whitelab",
             "repo": "chemcrow-public",
-            "stars": 965,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
@@ -1078,7 +1078,7 @@
         {
           "node_type": "item",
           "title": "zou-group/virtual-lab",
-          "description": "~685 多智能体 一支 LLM「科学家」团队开展跨学科研究（斯坦福）。",
+          "description": "~753 多智能体 一支 LLM「科学家」团队开展跨学科研究（斯坦福）。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1098,29 +1098,8 @@
         },
         {
           "node_type": "item",
-          "title": "lamm-mit/SciAgentsDiscovery",
-          "description": "~611 材料 MIT —— 多智能体自动科学发现与假设生成。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 845681738,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-05-10T02:24:17Z",
-            "open_issues": 11,
-            "owner": "lamm-mit",
-            "repo": "SciAgentsDiscovery",
-            "stars": 638,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "Future-House/robin",
-          "description": "~439 生物医学 多智能体科学发现；提出并验证了干性 AMD 候选药。",
+          "description": "~743 生物医学 多智能体科学发现；提出并验证了干性 AMD 候选药。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1140,8 +1119,29 @@
         },
         {
           "node_type": "item",
+          "title": "lamm-mit/SciAgentsDiscovery",
+          "description": "~638 材料 MIT —— 多智能体自动科学发现与假设生成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 845681738,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-05-10T02:24:17Z",
+            "open_issues": 11,
+            "owner": "lamm-mit",
+            "repo": "SciAgentsDiscovery",
+            "stars": 638,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "GENTEL-lab/OriGene",
-          "description": "~218 生物医学 自进化多智能体「虚拟疾病生物学家」，机制引导的治疗靶点发现（非商用许可）。",
+          "description": "~230 生物医学 自进化多智能体「虚拟疾病生物学家」，机制引导的治疗靶点发现（非商用许可）。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1162,7 +1162,7 @@
         {
           "node_type": "item",
           "title": "gomesgroup/coscientist",
-          "description": "~203 化学 基于 LLM 的自主化学研究（Nature 2023）。",
+          "description": "~212 化学 基于 LLM 的自主化学研究（Nature 2023）。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1189,7 +1189,7 @@
         {
           "node_type": "item",
           "title": "Imbad0202/academic-research-skills",
-          "description": "🧩 ⭐ ~22.7k Claude Code · Python 重点。 学术研究 → 写作 → 评审 → 修订 → 定稿流水线。",
+          "description": "🧩 ⭐ ~52.7k Claude Code · Python 重点。 学术研究 → 写作 → 评审 → 修订 → 定稿流水线。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1198,11 +1198,11 @@
             "id": 1167300963,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T09:32:11Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-18T01:25:37Z",
+            "open_issues": 33,
             "owner": "Imbad0202",
             "repo": "academic-research-skills",
-            "stars": 52534,
+            "stars": 52740,
             "topics": [
               "academic-pipeline",
               "academic-writing",
@@ -1219,7 +1219,7 @@
         {
           "node_type": "item",
           "title": "Yuan1z0825/nature-skills",
-          "description": "🧩 ~13.4k Claude Code · Python Nature 级学术表达 + 科研绘图，Claude 与 Codex 双支持。",
+          "description": "🧩 ~49.1k Claude Code · Python Nature 级学术表达 + 科研绘图，Claude 与 Codex 双支持。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1232,7 +1232,7 @@
             "open_issues": 15,
             "owner": "Yuan1z0825",
             "repo": "nature-skills",
-            "stars": 48910,
+            "stars": 49088,
             "topics": [
               "codex-skills",
               "nature",
@@ -1244,7 +1244,7 @@
         {
           "node_type": "item",
           "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
-          "description": "🧩 ~10.8k Markdown skills ARIS —— 跨模型互审循环、想法发现、实验自动化，无框架锁定。",
+          "description": "🧩 ~17.7k Markdown skills ARIS —— 跨模型互审循环、想法发现、实验自动化，无框架锁定。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1254,10 +1254,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-17T09:13:22Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 17629,
+            "stars": 17661,
             "topics": [
               "ai-research",
               "ai-tools",
@@ -1286,7 +1286,7 @@
         {
           "node_type": "item",
           "title": "companion-inc/feynman",
-          "description": "🧩 ~8.1k CLI · Codex · Claude Code 开源 AI 研究 agent（CLI，基于 Pi + alphaXiv）：文献综述、深度研究、复现、同行评审等 20 个研究 skill，可装进 Codex/Claude。",
+          "description": "🧩 ~10.0k CLI · Codex · Claude Code 开源 AI 研究 agent（CLI，基于 Pi + alphaXiv）：文献综述、深度研究、复现、同行评审等 20 个研究 skill，可装进 Codex/Claude。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1295,11 +1295,11 @@
             "id": 1186559664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T07:33:59Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-18T13:56:41Z",
+            "open_issues": 0,
             "owner": "Companion-Inc",
             "repo": "feynman",
-            "stars": 9981,
+            "stars": 9986,
             "topics": [
               "ai-agent",
               "arxiv",
@@ -1314,7 +1314,7 @@
         {
           "node_type": "item",
           "title": "uditgoenka/autoresearch",
-          "description": "🧩 ~5.2k Claude Code · Shell Claude 自主研究 skill：受 Karpathy autoresearch 启发的自主目标迭代，内置命令安全护栏（拒绝 mkfs/dd/nc 等危险命令）。",
+          "description": "🧩 ~6.6k Claude Code · Shell Claude 自主研究 skill：受 Karpathy autoresearch 启发的自主目标迭代，内置命令安全护栏（拒绝 mkfs/dd/nc 等危险命令）。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1327,7 +1327,7 @@
             "open_issues": 8,
             "owner": "uditgoenka",
             "repo": "autoresearch",
-            "stars": 6576,
+            "stars": 6579,
             "topics": [
               "ai",
               "autonomous-agent",
@@ -1345,7 +1345,7 @@
         {
           "node_type": "item",
           "title": "Galaxy-Dawn/claude-scholar",
-          "description": "🧩 ~4.1k Claude Code · MCP 半自动科研助手；集成 Zotero + Obsidian + MCP。",
+          "description": "🧩 ~5.8k Claude Code · MCP 半自动科研助手；集成 Zotero + Obsidian + MCP。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1358,7 +1358,7 @@
             "open_issues": 6,
             "owner": "Galaxy-Dawn",
             "repo": "claude-scholar",
-            "stars": 5818,
+            "stars": 5828,
             "topics": [
               "academic-research",
               "ai-agents",
@@ -1379,7 +1379,7 @@
         {
           "node_type": "item",
           "title": "54yyyu/zotero-mcp",
-          "description": "🧩 ~4.0k MCP · Python 把 Zotero 文献库接入任意 MCP 智能体：讨论论文、生成摘要、分析引用。",
+          "description": "🧩 ~5.5k MCP · Python 把 Zotero 文献库接入任意 MCP 智能体：讨论论文、生成摘要、分析引用。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1389,10 +1389,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-16T21:34:45Z",
-            "open_issues": 46,
+            "open_issues": 52,
             "owner": "54yyyu",
             "repo": "zotero-mcp",
-            "stars": 5444,
+            "stars": 5456,
             "topics": [
               "ai-agent",
               "chatgpt",
@@ -1412,7 +1412,7 @@
         {
           "node_type": "item",
           "title": "blazickjp/arxiv-mcp-server",
-          "description": "🧩 ~2.8k MCP 在任意支持 MCP 的智能体中直接检索与抓取 arXiv 论文。",
+          "description": "🧩 ~3.2k MCP 在任意支持 MCP 的智能体中直接检索与抓取 arXiv 论文。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1425,7 +1425,7 @@
             "open_issues": 7,
             "owner": "blazickjp",
             "repo": "arxiv-mcp-server",
-            "stars": 3222,
+            "stars": 3224,
             "topics": [
               "ai",
               "arxiv",
@@ -1444,7 +1444,7 @@
         {
           "node_type": "item",
           "title": "openags/paper-search-mcp",
-          "description": "~2.1k MCP · Python 跨 arXiv/PubMed/bioRxiv/medRxiv 等多源检索与下载论文的 MCP + CLI + skills。",
+          "description": "~2.9k MCP · Python 跨 arXiv/PubMed/bioRxiv/medRxiv 等多源检索与下载论文的 MCP + CLI + skills。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1457,7 +1457,7 @@
             "open_issues": 19,
             "owner": "openags",
             "repo": "paper-search-mcp",
-            "stars": 2858,
+            "stars": 2862,
             "topics": [
               "ai-scientist",
               "arxiv-papers",
@@ -1469,8 +1469,36 @@
         },
         {
           "node_type": "item",
+          "title": "K-Dense-AI/claude-scientific-writer",
+          "description": "🧩 ~2.5k Claude Code · Python 通用型科研写作助手。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A general purpose scientific writer",
+            "homepage": "https://k-dense.ai",
+            "id": 1084058975,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-09T02:17:53Z",
+            "open_issues": 6,
+            "owner": "K-Dense-AI",
+            "repo": "claude-scientific-writer",
+            "stars": 2492,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "skills",
+              "tools",
+              "writer"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "AIScientists-Dev/academic-humanizer",
-          "description": "~343 Claude · Codex · MorphMind 去除论文与 NSF/NIH 基金申请中的「AI 味」，保留学术语气并把论点绑定到证据。",
+          "description": "~2.2k Claude · Codex · MorphMind 去除论文与 NSF/NIH 基金申请中的「AI 味」，保留学术语气并把论点绑定到证据。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1483,7 +1511,7 @@
             "open_issues": 3,
             "owner": "AIScientists-Dev",
             "repo": "academic-humanizer",
-            "stars": 2191,
+            "stars": 2214,
             "topics": [
               "academic-writing",
               "grant-writing",
@@ -1499,8 +1527,308 @@
         },
         {
           "node_type": "item",
+          "title": "pedrohcgs/claude-code-my-workflow",
+          "description": "🧩 ~1.7k Claude Code · LaTeX/R 学者用的可 fork 模板：多智能体评审、质量门、复现协议。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.",
+            "homepage": "https://psantanna.com/claude-code-my-workflow/",
+            "id": 1151617003,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-09-27T22:26:46Z",
+            "open_issues": 6,
+            "owner": "pedrohcgs",
+            "repo": "claude-code-my-workflow",
+            "stars": 1663,
+            "topics": [
+              "academic-writing",
+              "causal-inference",
+              "claude-code",
+              "claude-code-skills",
+              "econometrics",
+              "economics",
+              "latex",
+              "quarto",
+              "reproducible-research",
+              "research-workflow"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lishix520/academic-paper-skills",
+          "description": "🧩 ~1.4k Claude Code · Python 系统化的学术论文规划与写作框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints.",
+            "homepage": null,
+            "id": 1127499996,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-01-04T02:42:38Z",
+            "open_issues": 1,
+            "owner": "lishix520",
+            "repo": "academic-paper-skills",
+            "stars": 1402,
+            "topics": [
+              "academic-writing",
+              "claude-code",
+              "philosophy",
+              "preprint",
+              "research-tools"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LeonChaoX/qinyan-academic-skills",
+          "description": "~964 Claude Code · Python 「沁言」学术科研库 —— 177 个研究 Agent。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug discovery, clinical research, machine learning, and data analysis.",
+            "homepage": null,
+            "id": 1168281163,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-20T11:43:50Z",
+            "open_issues": 1,
+            "owner": "LeonChaoX",
+            "repo": "qinyan-academic-skills",
+            "stars": 964,
+            "topics": [
+              "academic",
+              "ai-assistant",
+              "arxiv",
+              "claude-code",
+              "google-scholar",
+              "literature-review",
+              "openclaw",
+              "paper-search",
+              "pubmed",
+              "skill"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mshumer/autonomous-researcher",
+          "description": "🧩 ~826 Agent 轻量级自主研究智能体。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1100000177,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-11-24T22:27:41Z",
+            "open_issues": 3,
+            "owner": "mshumer",
+            "repo": "autonomous-researcher",
+            "stars": 826,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "andrehuang/research-companion",
+          "description": "🧩 ~721 Claude Code 战略型科研思考智能体：选题评估、项目分诊、头脑风暴。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them.",
+            "homepage": null,
+            "id": 1192900590,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-04-13T07:23:07Z",
+            "open_issues": 1,
+            "owner": "andrehuang",
+            "repo": "research-companion",
+            "stars": 721,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Light0305/Light-skills",
+          "description": "🧩 ~659 Claude Code · Codex 全流程科研技能包：28 个技能覆盖调研 → 写作 → 审稿 → 投稿，配套 9 个可核查知识库与对抗式自检。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An AI workflow skill pack for research, competitions, and innovation projects.",
+            "homepage": "https://github.com/Light0305/Light-skills#readme",
+            "id": 1261725242,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-06T12:50:21Z",
+            "open_issues": 1,
+            "owner": "Light0305",
+            "repo": "Light-skills",
+            "stars": 659,
+            "topics": [
+              "academic-writing",
+              "agent-skills",
+              "ai-agent",
+              "ai-skills",
+              "claude-code",
+              "codex",
+              "latex",
+              "literature-review",
+              "llm-skills",
+              "opencode",
+              "paper-writing",
+              "research-tools",
+              "scientific-figures",
+              "scientific-workflow"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Boom5426/Nature-Paper-Skills",
+          "description": "🧩 ~596 Claude Code · TeX Nature 风格论文的起草、修订、审稿与返修技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An AI-powered Scientific Writing Workflow: Agent skills for drafting, revising, auditing, and resubmitting Nature-style journal manuscripts.",
+            "homepage": null,
+            "id": 1208279709,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-13T13:05:33Z",
+            "open_issues": 0,
+            "owner": "Boom5426",
+            "repo": "Nature-Paper-Skills",
+            "stars": 596,
+            "topics": [
+              "nature-paper",
+              "paper",
+              "paper-skills",
+              "paper-write",
+              "paper-writing",
+              "paper-writing-agent"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EvoScientist/EvoSkills",
+          "description": "~481 Agent Skills 面向 EvoScientist 式科学工作流的可安装技能与知识包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🧬 Extend EvoScientist with Installable Skill & Knowledge Packs",
+            "homepage": "https://evoscientist.ai/#evoskills",
+            "id": 1146575521,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-30T17:20:23Z",
+            "open_issues": 6,
+            "owner": "EvoScientist",
+            "repo": "EvoSkills",
+            "stars": 481,
+            "topics": [
+              "ai-agent",
+              "ai4science",
+              "skills",
+              "vibe-research"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "jamditis/claude-skills-journalism",
+          "description": "🧩 ~423 Claude Code 新闻/媒体/学术交叉的技能集：事实核查、FOIA 申请、数据新闻、学术写作等 54 个 skill。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
+            "homepage": "https://skills.amditis.tech/",
+            "id": 1122958696,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-16T20:23:29Z",
+            "open_issues": 22,
+            "owner": "jamditis",
+            "repo": "claude-skills-journalism",
+            "stars": 423,
+            "topics": [
+              "academic-writing",
+              "claude",
+              "claude-code",
+              "claude-skills",
+              "data-journalism",
+              "fact-checking",
+              "foia",
+              "journalism",
+              "media",
+              "newsroom",
+              "osint",
+              "skills",
+              "verification"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lingzhi227/agent-research-skills",
+          "description": "~414 Claude Code · Python 系统化学术深度研究技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Skills for Claude Code — deep-research: systematic academic literature review",
+            "homepage": null,
+            "id": 1162231772,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-02-27T04:11:14Z",
+            "open_issues": 5,
+            "owner": "lingzhi227",
+            "repo": "agent-research-skills",
+            "stars": 414,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LMDHQ-0420/ResearchPilot-Skills",
+          "description": "~317 Claude Code · Shell 7 阶段自动化科研流程：方向探索、文献、想法、实验设计、代码、写作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Automated Academic Research Workflow Skill. From direction exploration, literature review, and idea development to experiment design, code implementation, and paper writing.",
+            "homepage": null,
+            "id": 1259441781,
+            "language": "Batchfile",
+            "license": "MIT",
+            "last_commit": "2026-09-14T10:01:21Z",
+            "open_issues": 0,
+            "owner": "LMDHQ-0420",
+            "repo": "ResearchPilot-Skills",
+            "stars": 317,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "guhaohao0991/PaperClaw",
-          "description": "~242 OpenClaw · Python 按主题生成论文检索—评审—批判专家 agent 的 OpenClaw skill。",
+          "description": "~252 OpenClaw · Python 按主题生成论文检索—评审—批判专家 agent 的 OpenClaw skill。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1520,29 +1848,27 @@
         },
         {
           "node_type": "item",
-          "title": "Stars-OC/thesis-creator",
-          "description": "~191 Claude Code · Python 中文论文写作 skill：内容、ER 图、流程图生成，含本科论文降 AIGC/降重优化。",
+          "title": "SNL-UCSB/paper-writing-skill",
+          "description": "~240 Claude Code · Shell 编码实战编辑原则与 5 阶段写作流水线（Brainstorm → Draft 0 → Evaluate → Write → Compress）。",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "适用于 Claude Code / Agent 的论文写作 Skill (论文.SKILL)。涵盖论文内容、数据库ER图、整体流程图生成。针对本科论文进行aigc率降低、降重的优化，助力毕业设计高质量生成。",
-            "homepage": null,
-            "id": 1174371701,
-            "language": "Python",
+            "description": "A Claude Code skill that encodes battle-tested editorial principles, section-specific rhetorical moves, and a structured writing pipeline for research papers. Brainstorm → Draft 0 → Evaluate → Write → Compress.",
+            "homepage": "https://sites.cs.ucsb.edu/~arpitgupta/",
+            "id": 1191156805,
+            "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-06-02T07:18:51Z",
-            "open_issues": 0,
-            "owner": "Stars-OC",
-            "repo": "thesis-creator",
-            "stars": 233,
+            "last_commit": "2026-07-31T18:24:37Z",
+            "open_issues": 2,
+            "owner": "SNL-UCSB",
+            "repo": "paper-writing-skill",
+            "stars": 240,
             "topics": [
-              "ai-assistant",
-              "chinese-academic",
+              "academic-writing",
               "claude-code",
-              "codex",
-              "graduation-thesis",
-              "skills",
-              "thesis-writing"
+              "paper-writing",
+              "phd",
+              "research"
             ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
@@ -1550,7 +1876,7 @@
         {
           "node_type": "item",
           "title": "ai4s-research/ai4s-skills",
-          "description": "~141 Claude Code · Python 7 个「AI for Science」skill：主题探索 → 文献综述 → 可运行实验 → 写作 → 诚信审计。",
+          "description": "~239 Claude Code · Python 7 个「AI for Science」skill：主题探索 → 文献综述 → 可运行实验 → 写作 → 诚信审计。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1585,48 +1911,80 @@
         },
         {
           "node_type": "item",
-          "title": "LMDHQ-0420/ResearchPilot-Skills",
-          "description": "~138 Claude Code · Shell 7 阶段自动化科研流程：方向探索、文献、想法、实验设计、代码、写作。",
+          "title": "Stars-OC/thesis-creator",
+          "description": "~233 Claude Code · Python 中文论文写作 skill：内容、ER 图、流程图生成，含本科论文降 AIGC/降重优化。",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Automated Academic Research Workflow Skill. From direction exploration, literature review, and idea development to experiment design, code implementation, and paper writing.",
+            "description": "适用于 Claude Code / Agent 的论文写作 Skill (论文.SKILL)。涵盖论文内容、数据库ER图、整体流程图生成。针对本科论文进行aigc率降低、降重的优化，助力毕业设计高质量生成。",
             "homepage": null,
-            "id": 1259441781,
-            "language": "Batchfile",
+            "id": 1174371701,
+            "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T10:01:21Z",
+            "last_commit": "2026-06-02T07:18:51Z",
             "open_issues": 0,
-            "owner": "LMDHQ-0420",
-            "repo": "ResearchPilot-Skills",
-            "stars": 317,
+            "owner": "Stars-OC",
+            "repo": "thesis-creator",
+            "stars": 233,
+            "topics": [
+              "ai-assistant",
+              "chinese-academic",
+              "claude-code",
+              "codex",
+              "graduation-thesis",
+              "skills",
+              "thesis-writing"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "andrehuang/academic-writing-agents",
+          "description": "~218 Claude Code 多智能体编排，含 10 个专职写作 Agent。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Claude Code plugin: multi-agent orchestrator with 10 specialist agents for academic writing review, research, drafting, and polishing",
+            "homepage": null,
+            "id": 1192497887,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-05-11T12:54:27Z",
+            "open_issues": 1,
+            "owner": "andrehuang",
+            "repo": "academic-writing-agents",
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
         {
           "node_type": "item",
-          "title": "SNL-UCSB/paper-writing-skill",
-          "description": "~106 Claude Code · Shell 编码实战编辑原则与 5 阶段写作流水线（Brainstorm → Draft 0 → Evaluate → Write → Compress）。",
+          "title": "flonat/claude-research",
+          "description": "🧩 ~146 Claude Code · Python 面向 PhD 的完整科研基建：50 个 skills + agents + hooks + rules，含 /bib-validate、/pre-submission-report 等命令。",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A Claude Code skill that encodes battle-tested editorial principles, section-specific rhetorical moves, and a structured writing pipeline for research papers. Brainstorm → Draft 0 → Evaluate → Write → Compress.",
-            "homepage": "https://sites.cs.ucsb.edu/~arpitgupta/",
-            "id": 1191156805,
-            "language": "Shell",
+            "description": "Shareable Claude Code + Codex infrastructure for PhD researchers — skills, agents, hooks, and rules for academic workflows",
+            "homepage": null,
+            "id": 1162504337,
+            "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-31T18:24:37Z",
-            "open_issues": 2,
-            "owner": "SNL-UCSB",
-            "repo": "paper-writing-skill",
-            "stars": 240,
+            "last_commit": "2026-09-29T13:04:06Z",
+            "open_issues": 1,
+            "owner": "flonat",
+            "repo": "flonat-research",
+            "stars": 147,
             "topics": [
-              "academic-writing",
+              "academic-research",
+              "ai-tools",
+              "claude",
               "claude-code",
-              "paper-writing",
+              "codex",
+              "latex",
               "phd",
-              "research"
+              "research-workflow"
             ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
@@ -1634,7 +1992,7 @@
         {
           "node_type": "item",
           "title": "voidful/academic-skills",
-          "description": "~103 Claude · Codex · Gemini · TeX 完整科研 skill 套件：论文阅读、想法生成、实验设计、证明/写作、同行评审。",
+          "description": "~136 Claude · Codex · Gemini · TeX 完整科研 skill 套件：论文阅读、想法生成、实验设计、证明/写作、同行评审。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1654,190 +2012,29 @@
         },
         {
           "node_type": "item",
-          "title": "K-Dense-AI/claude-scientific-writer",
-          "description": "🧩 ~1.9k Claude Code · Python 通用型科研写作助手。",
+          "title": "poemswe/co-researcher",
+          "description": "🧩 ~132 Claude Code · Codex · Gemini CLI 跨 Claude Code、Codex、Gemini CLI 的多平台学术研究套件，含专门 agent 与 CLI 工作流。",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A general purpose scientific writer",
-            "homepage": "https://k-dense.ai",
-            "id": 1084058975,
+            "description": "Academic research plugin for Claude Code with literature reviews, systematic reviews, peer review and citation checking. Every citation is verified against OpenAlex, arXiv and Europe PMC. Also works in Gemini CLI, Codex and OpenCode.",
+            "homepage": "https://coresearcher.poemswe.com",
+            "id": 1124416073,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T02:17:53Z",
-            "open_issues": 6,
-            "owner": "K-Dense-AI",
-            "repo": "claude-scientific-writer",
-            "stars": 2490,
+            "last_commit": "2026-10-17T14:13:00Z",
+            "open_issues": 19,
+            "owner": "poemswe",
+            "repo": "co-researcher",
+            "stars": 132,
             "topics": [
-              "ai-agents",
-              "anthropic",
-              "claude",
-              "skills",
-              "tools",
-              "writer"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pedrohcgs/claude-code-my-workflow",
-          "description": "🧩 ~1.2k Claude Code · LaTeX/R 学者用的可 fork 模板：多智能体评审、质量门、复现协议。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.",
-            "homepage": "https://psantanna.com/claude-code-my-workflow/",
-            "id": 1151617003,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-09-27T22:26:46Z",
-            "open_issues": 6,
-            "owner": "pedrohcgs",
-            "repo": "claude-code-my-workflow",
-            "stars": 1663,
-            "topics": [
+              "academic-paper",
+              "academic-research",
               "academic-writing",
-              "causal-inference",
-              "claude-code",
-              "claude-code-skills",
-              "econometrics",
-              "economics",
-              "latex",
-              "quarto",
-              "reproducible-research",
-              "research-workflow"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mshumer/autonomous-researcher",
-          "description": "🧩 ~804 Agent 轻量级自主研究智能体。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1100000177,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-11-24T22:27:41Z",
-            "open_issues": 3,
-            "owner": "mshumer",
-            "repo": "autonomous-researcher",
-            "stars": 826,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lishix520/academic-paper-skills",
-          "description": "🧩 ~768 Claude Code · Python 系统化的学术论文规划与写作框架。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints.",
-            "homepage": null,
-            "id": 1127499996,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-01-04T02:42:38Z",
-            "open_issues": 1,
-            "owner": "lishix520",
-            "repo": "academic-paper-skills",
-            "stars": 1400,
-            "topics": [
-              "academic-writing",
-              "claude-code",
-              "philosophy",
-              "preprint",
-              "research-tools"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "andrehuang/research-companion",
-          "description": "🧩 ~665 Claude Code 战略型科研思考智能体：选题评估、项目分诊、头脑风暴。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them.",
-            "homepage": null,
-            "id": 1192900590,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-04-13T07:23:07Z",
-            "open_issues": 1,
-            "owner": "andrehuang",
-            "repo": "research-companion",
-            "stars": 721,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "EvoScientist/EvoSkills",
-          "description": "~380 Agent Skills 面向 EvoScientist 式科学工作流的可安装技能与知识包。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🧬 Extend EvoScientist with Installable Skill & Knowledge Packs",
-            "homepage": "https://evoscientist.ai/#evoskills",
-            "id": 1146575521,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-30T17:20:23Z",
-            "open_issues": 6,
-            "owner": "EvoScientist",
-            "repo": "EvoSkills",
-            "stars": 480,
-            "topics": [
-              "ai-agent",
-              "ai4science",
-              "skills",
-              "vibe-research"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "jamditis/claude-skills-journalism",
-          "description": "🧩 ~295 Claude Code 新闻/媒体/学术交叉的技能集：事实核查、FOIA 申请、数据新闻、学术写作等 54 个 skill。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
-            "homepage": "https://skills.amditis.tech/",
-            "id": 1122958696,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-16T20:23:29Z",
-            "open_issues": 22,
-            "owner": "jamditis",
-            "repo": "claude-skills-journalism",
-            "stars": 423,
-            "topics": [
-              "academic-writing",
-              "claude",
-              "claude-code",
-              "claude-skills",
-              "data-journalism",
-              "fact-checking",
-              "foia",
-              "journalism",
-              "media",
-              "newsroom",
-              "osint",
-              "skills",
-              "verification"
+              "citation-verification",
+              "hypothesis-testing",
+              "literature-review",
+              "peer-review"
             ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
@@ -1845,7 +2042,7 @@
         {
           "node_type": "item",
           "title": "openags/auto-research",
-          "description": "🧩 ~284 Agent + UI 跨领域通用「AI 科学家」。",
+          "description": "🧩 ~11 Agent + UI 跨领域通用「AI 科学家」。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1866,203 +2063,6 @@
             ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Boom5426/Nature-Paper-Skills",
-          "description": "🧩 ~252 Claude Code · TeX Nature 风格论文的起草、修订、审稿与返修技能。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An AI-powered Scientific Writing Workflow: Agent skills for drafting, revising, auditing, and resubmitting Nature-style journal manuscripts.",
-            "homepage": null,
-            "id": 1208279709,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-13T13:05:33Z",
-            "open_issues": 0,
-            "owner": "Boom5426",
-            "repo": "Nature-Paper-Skills",
-            "stars": 592,
-            "topics": [
-              "nature-paper",
-              "paper",
-              "paper-skills",
-              "paper-write",
-              "paper-writing",
-              "paper-writing-agent"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Light0305/Light-skills",
-          "description": "🧩 ~151 Claude Code · Codex 全流程科研技能包：28 个技能覆盖调研 → 写作 → 审稿 → 投稿，配套 9 个可核查知识库与对抗式自检。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An AI workflow skill pack for research, competitions, and innovation projects.",
-            "homepage": "https://github.com/Light0305/Light-skills#readme",
-            "id": 1261725242,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-07-06T12:50:21Z",
-            "open_issues": 1,
-            "owner": "Light0305",
-            "repo": "Light-skills",
-            "stars": 657,
-            "topics": [
-              "academic-writing",
-              "agent-skills",
-              "ai-agent",
-              "ai-skills",
-              "claude-code",
-              "codex",
-              "latex",
-              "literature-review",
-              "llm-skills",
-              "opencode",
-              "paper-writing",
-              "research-tools",
-              "scientific-figures",
-              "scientific-workflow"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "poemswe/co-researcher",
-          "description": "🧩 ~101 Claude Code · Codex · Gemini CLI 跨 Claude Code、Codex、Gemini CLI 的多平台学术研究套件，含专门 agent 与 CLI 工作流。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Academic research plugin for Claude Code with literature reviews, systematic reviews, peer review and citation checking. Every citation is verified against OpenAlex, arXiv and Europe PMC. Also works in Gemini CLI, Codex and OpenCode.",
-            "homepage": "https://coresearcher.poemswe.com",
-            "id": 1124416073,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-17T14:13:00Z",
-            "open_issues": 19,
-            "owner": "poemswe",
-            "repo": "co-researcher",
-            "stars": 131,
-            "topics": [
-              "academic-paper",
-              "academic-research",
-              "academic-writing",
-              "citation-verification",
-              "hypothesis-testing",
-              "literature-review",
-              "peer-review"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "flonat/claude-research",
-          "description": "🧩 ~96 Claude Code · Python 面向 PhD 的完整科研基建：50 个 skills + agents + hooks + rules，含 /bib-validate、/pre-submission-report 等命令。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Shareable Claude Code + Codex infrastructure for PhD researchers — skills, agents, hooks, and rules for academic workflows",
-            "homepage": null,
-            "id": 1162504337,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-29T13:04:06Z",
-            "open_issues": 1,
-            "owner": "flonat",
-            "repo": "flonat-research",
-            "stars": 146,
-            "topics": [
-              "academic-research",
-              "ai-tools",
-              "claude",
-              "claude-code",
-              "codex",
-              "latex",
-              "phd",
-              "research-workflow"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LeonChaoX/qinyan-academic-skills",
-          "description": "~93 Claude Code · Python 「沁言」学术科研库 —— 177 个研究 Agent。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug discovery, clinical research, machine learning, and data analysis.",
-            "homepage": null,
-            "id": 1168281163,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-07-20T11:43:50Z",
-            "open_issues": 1,
-            "owner": "LeonChaoX",
-            "repo": "qinyan-academic-skills",
-            "stars": 959,
-            "topics": [
-              "academic",
-              "ai-assistant",
-              "arxiv",
-              "claude-code",
-              "google-scholar",
-              "literature-review",
-              "openclaw",
-              "paper-search",
-              "pubmed",
-              "skill"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lingzhi227/agent-research-skills",
-          "description": "~85 Claude Code · Python 系统化学术深度研究技能。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Skills for Claude Code — deep-research: systematic academic literature review",
-            "homepage": null,
-            "id": 1162231772,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-02-27T04:11:14Z",
-            "open_issues": 5,
-            "owner": "lingzhi227",
-            "repo": "agent-research-skills",
-            "stars": 411,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "andrehuang/academic-writing-agents",
-          "description": "~80 Claude Code 多智能体编排，含 10 个专职写作 Agent。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Claude Code plugin: multi-agent orchestrator with 10 specialist agents for academic writing review, research, drafting, and polishing",
-            "homepage": null,
-            "id": 1192497887,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-05-11T12:54:27Z",
-            "open_issues": 1,
-            "owner": "andrehuang",
-            "repo": "academic-writing-agents",
-            "stars": 216,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
         }
       ],
       "title": "🧩 研究技能与插件合集"
@@ -2073,7 +2073,7 @@
         {
           "node_type": "item",
           "title": "openai/mle-bench",
-          "description": "~1.6k ML 工程 衡量 AI 智能体的机器学习工程能力（75 个 Kaggle 式竞赛任务）。",
+          "description": "~1.8k ML 工程 衡量 AI 智能体的机器学习工程能力（75 个 Kaggle 式竞赛任务）。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2086,7 +2086,7 @@
             "open_issues": 13,
             "owner": "openai",
             "repo": "mle-bench",
-            "stars": 1776,
+            "stars": 1779,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
@@ -2094,7 +2094,7 @@
         {
           "node_type": "item",
           "title": "snap-stanford/MLAgentBench",
-          "description": "~343 ML 工程 智能体完成端到端 ML 实验任务。",
+          "description": "~356 ML 工程 智能体完成端到端 ML 实验任务。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2114,80 +2114,8 @@
         },
         {
           "node_type": "item",
-          "title": "scicode-bench/SciCode",
-          "description": "~213 科学编程 挑战语言模型为真实科研级科学问题编写代码解法。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A benchmark that challenges language models to code solutions for scientific problems",
-            "homepage": null,
-            "id": 825810755,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-12T17:23:31Z",
-            "open_issues": 24,
-            "owner": "scicode-bench",
-            "repo": "SciCode",
-            "stars": 241,
-            "topics": [
-              "ai",
-              "ai-benchmarks",
-              "benchmark",
-              "llm"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HKUST-KnowComp/NewtonBench",
-          "description": "~152 科学定律发现 ICLR 2026 —— 通过交互式实验评测 LLM 智能体的可泛化科学定律发现。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ICLR2026] NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents",
-            "homepage": null,
-            "id": 1072288305,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-02-27T01:04:09Z",
-            "open_issues": 1,
-            "owner": "HKUST-KnowComp",
-            "repo": "NewtonBench",
-            "stars": 159,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Future-House/BixBench",
-          "description": "~130 计算生物学 面向计算生物学/生信智能体的评测基准（FutureHouse）。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Benchmark for LLM-based Agents in Computational Biology",
-            "homepage": "https://arxiv.org/abs/2503.00096",
-            "id": 935670949,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-10-06T21:54:03Z",
-            "open_issues": 6,
-            "owner": "Future-House",
-            "repo": "BixBench",
-            "stars": 148,
-            "topics": [
-              "artificial-intelligence",
-              "bioinformatics",
-              "language-agents"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "Future-House/aviary",
-          "description": "~266 科学智能体任务 面向挑战性科学任务的 language-agent gym（FutureHouse）。",
+          "description": "~284 科学智能体任务 面向挑战性科学任务的 language-agent gym（FutureHouse）。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2212,29 +2140,34 @@
         },
         {
           "node_type": "item",
-          "title": "allenai/discoverybench",
-          "description": "~145 数据驱动发现 LLM 能否从真实数据集中推导假设（AI2）。",
+          "title": "scicode-bench/SciCode",
+          "description": "~241 科学编程 挑战语言模型为真实科研级科学问题编写代码解法。",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Discovering Data-driven Hypotheses in the Wild",
+            "description": "A benchmark that challenges language models to code solutions for scientific problems",
             "homepage": null,
-            "id": 806006227,
+            "id": 825810755,
             "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2025-06-09T04:42:01Z",
-            "open_issues": 7,
-            "owner": "allenai",
-            "repo": "discoverybench",
-            "stars": 164,
-            "topics": []
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-12T17:23:31Z",
+            "open_issues": 25,
+            "owner": "scicode-bench",
+            "repo": "SciCode",
+            "stars": 241,
+            "topics": [
+              "ai",
+              "ai-benchmarks",
+              "benchmark",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
         },
         {
           "node_type": "item",
           "title": "OSU-NLP-Group/ScienceAgentBench",
-          "description": "~138 数据驱动科学 在真实科研任务上严格评测智能体。",
+          "description": "~178 数据驱动科学 在真实科研任务上严格评测智能体。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2261,6 +2194,73 @@
             ]
           },
           "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "allenai/discoverybench",
+          "description": "~164 数据驱动发现 LLM 能否从真实数据集中推导假设（AI2）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Discovering Data-driven Hypotheses in the Wild",
+            "homepage": null,
+            "id": 806006227,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2025-06-09T04:42:01Z",
+            "open_issues": 7,
+            "owner": "allenai",
+            "repo": "discoverybench",
+            "stars": 164,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HKUST-KnowComp/NewtonBench",
+          "description": "~159 科学定律发现 ICLR 2026 —— 通过交互式实验评测 LLM 智能体的可泛化科学定律发现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ICLR2026] NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents",
+            "homepage": null,
+            "id": 1072288305,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-02-27T01:04:09Z",
+            "open_issues": 1,
+            "owner": "HKUST-KnowComp",
+            "repo": "NewtonBench",
+            "stars": 159,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Future-House/BixBench",
+          "description": "~148 计算生物学 面向计算生物学/生信智能体的评测基准（FutureHouse）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Benchmark for LLM-based Agents in Computational Biology",
+            "homepage": "https://arxiv.org/abs/2503.00096",
+            "id": 935670949,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-10-06T21:54:03Z",
+            "open_issues": 6,
+            "owner": "Future-House",
+            "repo": "BixBench",
+            "stars": 148,
+            "topics": [
+              "artificial-intelligence",
+              "bioinformatics",
+              "language-agents"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
         }
       ],
       "title": "📊 评测基准"
@@ -2271,7 +2271,7 @@
         {
           "node_type": "item",
           "title": "webfuse-com/awesome-autoresearch",
-          "description": "~2.3k autoresearch / 自主改进循环系统精选（CC0 公共领域）。",
+          "description": "~2.6k autoresearch / 自主改进循环系统精选（CC0 公共领域）。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2281,10 +2281,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T07:52:13Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "webfuse-com",
             "repo": "awesome-autoresearch",
-            "stars": 2568,
+            "stars": 2570,
             "topics": [
               "agentic-systems",
               "ai-agents",
@@ -2307,8 +2307,32 @@
         },
         {
           "node_type": "item",
+          "title": "VILA-Lab/Dive-into-Claude-Code",
+          "description": "~2.2k 系统分析 Claude Code 在 AI 智能体系统设计中的应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
+            "homepage": "https://arxiv.org/abs/2604.14228",
+            "id": 1207687985,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-17T03:55:30Z",
+            "open_issues": 0,
+            "owner": "VILA-Lab",
+            "repo": "Dive-into-Claude-Code",
+            "stars": 2173,
+            "topics": [
+              "claude",
+              "claude-code"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "ai-boost/awesome-ai-for-science",
-          "description": "~1.6k 跨领域的 AI for Science 工具、数据集与框架精选。",
+          "description": "~2.0k 跨领域的 AI for Science 工具、数据集与框架精选。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2317,7 +2341,7 @@
             "id": 1069616483,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T08:35:01Z",
+            "last_commit": "2026-10-18T08:33:20Z",
             "open_issues": 48,
             "owner": "ai4s-research",
             "repo": "awesome-ai-for-science",
@@ -2336,32 +2360,8 @@
         },
         {
           "node_type": "item",
-          "title": "VILA-Lab/Dive-into-Claude-Code",
-          "description": "~1.4k 系统分析 Claude Code 在 AI 智能体系统设计中的应用。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
-            "homepage": "https://arxiv.org/abs/2604.14228",
-            "id": 1207687985,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-17T03:55:30Z",
-            "open_issues": 0,
-            "owner": "VILA-Lab",
-            "repo": "Dive-into-Claude-Code",
-            "stars": 2171,
-            "topics": [
-              "claude",
-              "claude-code"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmgthb/Autonomous-Agents",
-          "description": "~1.3k 每日更新的自主智能体（LLM）研究论文清单。",
+          "description": "~1.4k 每日更新的自主智能体（LLM）研究论文清单。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2374,7 +2374,7 @@
             "open_issues": 2,
             "owner": "tmgthb",
             "repo": "Autonomous-Agents",
-            "stars": 1384,
+            "stars": 1385,
             "topics": [
               "agent",
               "agent-context",
@@ -2403,7 +2403,7 @@
         {
           "node_type": "item",
           "title": "handsome-rich/Awesome-Auto-Research-Tools",
-          "description": "~778 启发本仓库的那份清单。",
+          "description": "~1.2k 启发本仓库的那份清单。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2424,7 +2424,7 @@
         {
           "node_type": "item",
           "title": "DavidZWZ/Awesome-Deep-Research",
-          "description": "~759 ACL 2026 —— agentic 深度研究资源。",
+          "description": "~872 ACL 2026 —— agentic 深度研究资源。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2455,8 +2455,40 @@
         },
         {
           "node_type": "item",
+          "title": "worldbench/awesome-ai-auto-research",
+          "description": "~556 一份 AI auto-research 综述。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🔥 A Survey on AI Auto-Research",
+            "homepage": "https://worldbench.github.io/awesome-ai-auto-research",
+            "id": 1194915762,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-10-17T01:00:16Z",
+            "open_issues": 2,
+            "owner": "worldbench",
+            "repo": "awesome-ai-auto-research",
+            "stars": 556,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "ai",
+              "ai-research",
+              "ai-scientist",
+              "auto-research",
+              "large-language-models",
+              "llm",
+              "multi-agent-system",
+              "rag"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:21.287Z"
+        },
+        {
+          "node_type": "item",
           "title": "scienceaix/deepresearch",
-          "description": "~430 Deep Research 综述论文的配套清单。",
+          "description": "~435 Deep Research 综述论文的配套清单。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2478,40 +2510,8 @@
         },
         {
           "node_type": "item",
-          "title": "worldbench/awesome-ai-auto-research",
-          "description": "~187 一份 AI auto-research 综述。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🔥 A Survey on AI Auto-Research",
-            "homepage": "https://worldbench.github.io/awesome-ai-auto-research",
-            "id": 1194915762,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-10-17T01:00:16Z",
-            "open_issues": 1,
-            "owner": "worldbench",
-            "repo": "awesome-ai-auto-research",
-            "stars": 551,
-            "topics": [
-              "agent",
-              "agentic-ai",
-              "ai",
-              "ai-research",
-              "ai-scientist",
-              "auto-research",
-              "large-language-models",
-              "llm",
-              "multi-agent-system",
-              "rag"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:21.287Z"
-        },
-        {
-          "node_type": "item",
           "title": "MinhaoXiong/awesome-automated-research",
-          "description": "~116 自主研究系统精选清单。",
+          "description": "~125 自主研究系统精选清单。",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2534,7 +2534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:25:19.680Z",
+    "last_updated": "2026-10-18T19:25:41.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated hub of autonomous-research skills & agents — from idea to paper, on autopilot. | 自主科研技能与智能体精选库 —— 从灵感到论文全文，全程自动完成。",
@@ -2542,11 +2542,11 @@
       "id": 1251648241,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-12T13:39:35Z",
+      "last_commit": "2026-10-18T16:41:28Z",
       "open_issues": 1,
       "owner": "brycewang-stanford",
       "repo": "Auto-Research-Skills",
-      "stars": 209,
+      "stars": 208,
       "topics": [
         "academic-research",
         "agent-skills",
@@ -2570,7 +2570,7 @@
         "scientific-computing"
       ]
     },
-    "original_repository_sha": "f3daef3fa7bd74f1e25fec4a16b6eeb23303c083",
+    "original_repository_sha": "49115b9c24429b4e99bca885e194f25648d47891",
     "enhanced_repository": "enhansome/enhansome-Auto-Research-Skills",
     "enhanced_repository_description": null,
     "title": "Awesome Auto Research Skills with stars"
